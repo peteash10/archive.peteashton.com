@@ -1,0 +1,1110 @@
+<!DOCTYPE html>
+
+<html class="no-js" lang="en-US">
+
+	<head>
+
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" >
+
+		<link rel="profile" href="https://gmpg.org/xfn/11">
+
+		<title>Blog &#8211; Birmingham Camera Obscura</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel="alternate" type="application/rss+xml" title="Birmingham Camera Obscura &raquo; Feed" href="http://bhamobscura.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Birmingham Camera Obscura &raquo; Comments Feed" href="http://bhamobscura.com/comments/feed/" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/bhamobscura.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.4.2"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='http://bhamobscura.com/wp-includes/css/dist/block-library/style.min.css?ver=6.4.2' media='all' />
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--accent: #d9305d;--wp--preset--color--primary: #000000;--wp--preset--color--secondary: #6a6029;--wp--preset--color--subtle-background: #e5da93;--wp--preset--color--background: #fefcf0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 18px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 26.25px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--normal: 21px;--wp--preset--font-size--larger: 32px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='twentytwenty-style-css' href='http://bhamobscura.com/wp-content/themes/twentytwenty/style.css?ver=2.5' media='all' />
+<style id='twentytwenty-style-inline-css'>
+.color-accent,.color-accent-hover:hover,.color-accent-hover:focus,:root .has-accent-color,.has-drop-cap:not(:focus):first-letter,.wp-block-button.is-style-outline,a { color: #d9305d; }blockquote,.border-color-accent,.border-color-accent-hover:hover,.border-color-accent-hover:focus { border-color: #d9305d; }button,.button,.faux-button,.wp-block-button__link,.wp-block-file .wp-block-file__button,input[type="button"],input[type="reset"],input[type="submit"],.bg-accent,.bg-accent-hover:hover,.bg-accent-hover:focus,:root .has-accent-background-color,.comment-reply-link { background-color: #d9305d; }.fill-children-accent,.fill-children-accent * { fill: #d9305d; }:root .has-background-color,button,.button,.faux-button,.wp-block-button__link,.wp-block-file__button,input[type="button"],input[type="reset"],input[type="submit"],.wp-block-button,.comment-reply-link,.has-background.has-primary-background-color:not(.has-text-color),.has-background.has-primary-background-color *:not(.has-text-color),.has-background.has-accent-background-color:not(.has-text-color),.has-background.has-accent-background-color *:not(.has-text-color) { color: #fefcf0; }:root .has-background-background-color { background-color: #fefcf0; }body,.entry-title a,:root .has-primary-color { color: #000000; }:root .has-primary-background-color { background-color: #000000; }cite,figcaption,.wp-caption-text,.post-meta,.entry-content .wp-block-archives li,.entry-content .wp-block-categories li,.entry-content .wp-block-latest-posts li,.wp-block-latest-comments__comment-date,.wp-block-latest-posts__post-date,.wp-block-embed figcaption,.wp-block-image figcaption,.wp-block-pullquote cite,.comment-metadata,.comment-respond .comment-notes,.comment-respond .logged-in-as,.pagination .dots,.entry-content hr:not(.has-background),hr.styled-separator,:root .has-secondary-color { color: #6a6029; }:root .has-secondary-background-color { background-color: #6a6029; }pre,fieldset,input,textarea,table,table *,hr { border-color: #e5da93; }caption,code,code,kbd,samp,.wp-block-table.is-style-stripes tbody tr:nth-child(odd),:root .has-subtle-background-background-color { background-color: #e5da93; }.wp-block-table.is-style-stripes { border-bottom-color: #e5da93; }.wp-block-latest-posts.is-grid li { border-top-color: #e5da93; }:root .has-subtle-background-color { color: #e5da93; }body:not(.overlay-header) .primary-menu > li > a,body:not(.overlay-header) .primary-menu > li > .icon,.modal-menu a,.footer-menu a, .footer-widgets a:where(:not(.wp-block-button__link)),#site-footer .wp-block-button.is-style-outline,.wp-block-pullquote:before,.singular:not(.overlay-header) .entry-header a,.archive-header a,.header-footer-group .color-accent,.header-footer-group .color-accent-hover:hover { color: #9c1035; }.social-icons a,#site-footer button:not(.toggle),#site-footer .button,#site-footer .faux-button,#site-footer .wp-block-button__link,#site-footer .wp-block-file__button,#site-footer input[type="button"],#site-footer input[type="reset"],#site-footer input[type="submit"] { background-color: #9c1035; }.social-icons a,body:not(.overlay-header) .primary-menu ul,.header-footer-group button,.header-footer-group .button,.header-footer-group .faux-button,.header-footer-group .wp-block-button:not(.is-style-outline) .wp-block-button__link,.header-footer-group .wp-block-file__button,.header-footer-group input[type="button"],.header-footer-group input[type="reset"],.header-footer-group input[type="submit"] { color: #a9c6c4; }#site-header,.footer-nav-widgets-wrapper,#site-footer,.menu-modal,.menu-modal-inner,.search-modal-inner,.archive-header,.singular .entry-header,.singular .featured-media:before,.wp-block-pullquote:before { background-color: #a9c6c4; }.header-footer-group,body:not(.overlay-header) #site-header .toggle,.menu-modal .toggle { color: #000000; }body:not(.overlay-header) .primary-menu ul { background-color: #000000; }body:not(.overlay-header) .primary-menu > li > ul:after { border-bottom-color: #000000; }body:not(.overlay-header) .primary-menu ul ul:after { border-left-color: #000000; }.site-description,body:not(.overlay-header) .toggle-inner .toggle-text,.widget .post-date,.widget .rss-date,.widget_archive li,.widget_categories li,.widget cite,.widget_pages li,.widget_meta li,.widget_nav_menu li,.powered-by-wordpress,.to-the-top,.singular .entry-header .post-meta,.singular:not(.overlay-header) .entry-header .post-meta a { color: #394645; }.header-footer-group pre,.header-footer-group fieldset,.header-footer-group input,.header-footer-group textarea,.header-footer-group table,.header-footer-group table *,.footer-nav-widgets-wrapper,#site-footer,.menu-modal nav *,.footer-widgets-outer-wrapper,.footer-top { border-color: #85acaa; }.header-footer-group table caption,body:not(.overlay-header) .header-inner .toggle-wrapper::before { background-color: #85acaa; }
+</style>
+<link rel='stylesheet' id='twentytwenty-print-style-css' href='http://bhamobscura.com/wp-content/themes/twentytwenty/print.css?ver=2.5' media='print' />
+<link rel='stylesheet' id='twentytwenty-jetpack-css' href='http://bhamobscura.com/wp-content/plugins/jetpack/modules/theme-tools/compat/twentytwenty.css?ver=13.0' media='all' />
+<script src="http://bhamobscura.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="http://bhamobscura.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script src="http://bhamobscura.com/wp-content/themes/twentytwenty/assets/js/index.js?ver=2.5" id="twentytwenty-js-js" defer data-wp-strategy="defer"></script>
+<link rel="https://api.w.org/" href="http://bhamobscura.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://bhamobscura.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.4.2" />
+	<script>document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );</script>
+	<style id="custom-background-css">
+body.custom-background { background-color: #fefcf0; }
+</style>
+	<style id="sccss">/* Enter Your Custom CSS Here */
+
+.site-content article {
+	word-wrap: normal;
+	-webkit-hyphens: none;
+	-moz-hyphens: none;
+	hyphens: none;
+}
+
+.entry-content a:visited,
+.comment-content a:visited {
+	color: #21759b;
+}
+
+.widget-area .widget a:visited {
+	color: #757575;
+}
+
+.page-id-708 h1.entry-title, 
+.page-id-1654 h1.entry-title, 
+.page-id-1660 h1.entry-title, 
+.page-id-1652 h1.entry-title, 
+.page-id-1657 h1.entry-title {display: none;}</style>
+	</head>
+
+	<body class="blog custom-background wp-embed-responsive has-no-pagination showing-comments show-avatars footer-top-visible">
+
+		<a class="skip-link screen-reader-text" href="#site-content">Skip to the content</a>
+		<header id="site-header" class="header-footer-group">
+
+			<div class="header-inner section-inner">
+
+				<div class="header-titles-wrapper">
+
+					
+					<div class="header-titles">
+
+						<h1 class="site-title"><a href="http://bhamobscura.com/">Birmingham Camera Obscura</a></h1><div class="site-description">Building camera obscuras in Birmingham</div><!-- .site-description -->
+					</div><!-- .header-titles -->
+
+					<button class="toggle nav-toggle mobile-nav-toggle" data-toggle-target=".menu-modal"  data-toggle-body-class="showing-menu-modal" aria-expanded="false" data-set-focus=".close-nav-toggle">
+						<span class="toggle-inner">
+							<span class="toggle-icon">
+								<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="26" height="7" viewBox="0 0 26 7"><path fill-rule="evenodd" d="M332.5,45 C330.567003,45 329,43.4329966 329,41.5 C329,39.5670034 330.567003,38 332.5,38 C334.432997,38 336,39.5670034 336,41.5 C336,43.4329966 334.432997,45 332.5,45 Z M342,45 C340.067003,45 338.5,43.4329966 338.5,41.5 C338.5,39.5670034 340.067003,38 342,38 C343.932997,38 345.5,39.5670034 345.5,41.5 C345.5,43.4329966 343.932997,45 342,45 Z M351.5,45 C349.567003,45 348,43.4329966 348,41.5 C348,39.5670034 349.567003,38 351.5,38 C353.432997,38 355,39.5670034 355,41.5 C355,43.4329966 353.432997,45 351.5,45 Z" transform="translate(-329 -38)" /></svg>							</span>
+							<span class="toggle-text">Menu</span>
+						</span>
+					</button><!-- .nav-toggle -->
+
+				</div><!-- .header-titles-wrapper -->
+
+				<div class="header-navigation-wrapper">
+
+					
+							<nav class="primary-menu-wrapper" aria-label="Horizontal">
+
+								<ul class="primary-menu reset-list-style">
+
+								<li id="menu-item-772" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-772"><a href="http://bhamobscura.com/home/">Home</a><span class="icon"></span>
+<ul class="sub-menu">
+	<li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-23 current_page_item current_page_parent menu-item-41"><a href="http://bhamobscura.com/blog/" aria-current="page">Blog</a></li>
+</ul>
+</li>
+<li id="menu-item-935" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-935"><a href="http://bhamobscura.com/about-us/">About Us</a><span class="icon"></span>
+<ul class="sub-menu">
+	<li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18"><a href="http://bhamobscura.com/the-plan/">Our Plan</a></li>
+	<li id="menu-item-936" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-936"><a href="http://bhamobscura.com/what-is-a-camera-obscura/">What is it?</a><span class="icon"></span>
+	<ul class="sub-menu">
+		<li id="menu-item-773" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-773"><a href="http://bhamobscura.com/map-of-obscura/">Obscura World Map</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-19"><a href="http://bhamobscura.com/portable-camera-obscura/">Our Cameras</a><span class="icon"></span>
+<ul class="sub-menu">
+	<li id="menu-item-1713" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1713"><a title="Artworks commissioned for the Camera Osbcura" href="http://bhamobscura.com/artworks/">Obscura Artworks</a><span class="icon"></span>
+	<ul class="sub-menu">
+		<li id="menu-item-1715" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1715"><a href="http://bhamobscura.com/artworks/upside-down/">Upside Down</a></li>
+		<li id="menu-item-1716" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1716"><a href="http://bhamobscura.com/artworks/the-wind/">Camera Obscura + the wind</a></li>
+		<li id="menu-item-1717" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1717"><a href="http://bhamobscura.com/artworks/reflections/">Reflections: A play for the Camera Obscura</a></li>
+		<li id="menu-item-1714" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1714"><a href="http://bhamobscura.com/artworks/obscura-island/">Obscura Island</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1082" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1082"><a href="http://bhamobscura.com/portable-camera-obscura/">The Portable Camera Obscura (2015)</a><span class="icon"></span>
+	<ul class="sub-menu">
+		<li id="menu-item-1133" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1133"><a href="http://bhamobscura.com/kickstarter-supporters/">Kickstarter Supporters!</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1081" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1081"><a href="http://bhamobscura.com/the-prototype-camera-obscura/">The Prototype Portable Camera Obscura (2014)</a></li>
+</ul>
+</li>
+<li id="menu-item-71" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-71"><a href="http://bhamobscura.com/contact/">Contact</a><span class="icon"></span>
+<ul class="sub-menu">
+	<li id="menu-item-20" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20"><a href="https://twitter.com/bhamobscura">Twitter</a></li>
+	<li id="menu-item-21" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21"><a href="http://eepurl.com/U5PDD">Newsletter Signup</a></li>
+	<li id="menu-item-782" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-782"><a href="https://www.flickr.com/photos/bhamobscura/sets/">Flickr</a></li>
+</ul>
+</li>
+
+								</ul>
+
+							</nav><!-- .primary-menu-wrapper -->
+
+						
+				</div><!-- .header-navigation-wrapper -->
+
+			</div><!-- .header-inner -->
+
+			
+		</header><!-- #site-header -->
+
+		
+<div class="menu-modal cover-modal header-footer-group" data-modal-target-string=".menu-modal">
+
+	<div class="menu-modal-inner modal-inner">
+
+		<div class="menu-wrapper section-inner">
+
+			<div class="menu-top">
+
+				<button class="toggle close-nav-toggle fill-children-current-color" data-toggle-target=".menu-modal" data-toggle-body-class="showing-menu-modal" data-set-focus=".menu-modal">
+					<span class="toggle-text">Close Menu</span>
+					<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"><polygon fill="" fill-rule="evenodd" points="6.852 7.649 .399 1.195 1.445 .149 7.899 6.602 14.352 .149 15.399 1.195 8.945 7.649 15.399 14.102 14.352 15.149 7.899 8.695 1.445 15.149 .399 14.102" /></svg>				</button><!-- .nav-toggle -->
+
+				
+					<nav class="mobile-menu" aria-label="Mobile">
+
+						<ul class="modal-menu reset-list-style">
+
+						<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-772"><div class="ancestor-wrapper"><a href="http://bhamobscura.com/home/">Home</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-772 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-23 current_page_item current_page_parent menu-item-41"><div class="ancestor-wrapper"><a href="http://bhamobscura.com/blog/" aria-current="page">Blog</a></div><!-- .ancestor-wrapper --></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-935"><div class="ancestor-wrapper"><a href="http://bhamobscura.com/about-us/">About Us</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-935 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18"><div class="ancestor-wrapper"><a href="http://bhamobscura.com/the-plan/">Our Plan</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-936"><div class="ancestor-wrapper"><a href="http://bhamobscura.com/what-is-a-camera-obscura/">What is it?</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-936 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-773"><div class="ancestor-wrapper"><a href="http://bhamobscura.com/map-of-obscura/">Obscura World Map</a></div><!-- .ancestor-wrapper --></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-19"><div class="ancestor-wrapper"><a href="http://bhamobscura.com/portable-camera-obscura/">Our Cameras</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-19 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1713"><div class="ancestor-wrapper"><a title="Artworks commissioned for the Camera Osbcura" href="http://bhamobscura.com/artworks/">Obscura Artworks</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-1713 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1715"><div class="ancestor-wrapper"><a href="http://bhamobscura.com/artworks/upside-down/">Upside Down</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1716"><div class="ancestor-wrapper"><a href="http://bhamobscura.com/artworks/the-wind/">Camera Obscura + the wind</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1717"><div class="ancestor-wrapper"><a href="http://bhamobscura.com/artworks/reflections/">Reflections: A play for the Camera Obscura</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1714"><div class="ancestor-wrapper"><a href="http://bhamobscura.com/artworks/obscura-island/">Obscura Island</a></div><!-- .ancestor-wrapper --></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1082"><div class="ancestor-wrapper"><a href="http://bhamobscura.com/portable-camera-obscura/">The Portable Camera Obscura (2015)</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-1082 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1133"><div class="ancestor-wrapper"><a href="http://bhamobscura.com/kickstarter-supporters/">Kickstarter Supporters!</a></div><!-- .ancestor-wrapper --></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1081"><div class="ancestor-wrapper"><a href="http://bhamobscura.com/the-prototype-camera-obscura/">The Prototype Portable Camera Obscura (2014)</a></div><!-- .ancestor-wrapper --></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-71"><div class="ancestor-wrapper"><a href="http://bhamobscura.com/contact/">Contact</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-71 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20"><div class="ancestor-wrapper"><a href="https://twitter.com/bhamobscura">Twitter</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21"><div class="ancestor-wrapper"><a href="http://eepurl.com/U5PDD">Newsletter Signup</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-782"><div class="ancestor-wrapper"><a href="https://www.flickr.com/photos/bhamobscura/sets/">Flickr</a></div><!-- .ancestor-wrapper --></li>
+</ul>
+</li>
+
+						</ul>
+
+					</nav>
+
+					
+			</div><!-- .menu-top -->
+
+			<div class="menu-bottom">
+
+				
+			</div><!-- .menu-bottom -->
+
+		</div><!-- .menu-wrapper -->
+
+	</div><!-- .menu-modal-inner -->
+
+</div><!-- .menu-modal -->
+
+<main id="site-content">
+
+	
+<article class="post-1631 post type-post status-publish format-standard hentry category-news" id="post-1631">
+
+	
+<header class="entry-header has-text-align-center">
+
+	<div class="entry-header-inner section-inner medium">
+
+		
+			<div class="entry-categories">
+				<span class="screen-reader-text">
+					Categories				</span>
+				<div class="entry-categories-inner">
+					<a href="http://bhamobscura.com/category/news/" rel="category tag">News</a>				</div><!-- .entry-categories-inner -->
+			</div><!-- .entry-categories -->
+
+			<h2 class="entry-title heading-size-1"><a href="http://bhamobscura.com/2016/01/sketching-obscura-at-the-warwick-arts-centre/">Sketching Obscura at the Warwick Arts Centre</a></h2>
+		<div class="post-meta-wrapper post-meta-single post-meta-single-top">
+
+			<ul class="post-meta">
+
+									<li class="post-author meta-wrapper">
+						<span class="meta-icon">
+							<span class="screen-reader-text">
+								Post author							</span>
+							<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="20" viewBox="0 0 18 20"><path fill="" d="M18,19 C18,19.5522847 17.5522847,20 17,20 C16.4477153,20 16,19.5522847 16,19 L16,17 C16,15.3431458 14.6568542,14 13,14 L5,14 C3.34314575,14 2,15.3431458 2,17 L2,19 C2,19.5522847 1.55228475,20 1,20 C0.44771525,20 0,19.5522847 0,19 L0,17 C0,14.2385763 2.23857625,12 5,12 L13,12 C15.7614237,12 18,14.2385763 18,17 L18,19 Z M9,10 C6.23857625,10 4,7.76142375 4,5 C4,2.23857625 6.23857625,0 9,0 C11.7614237,0 14,2.23857625 14,5 C14,7.76142375 11.7614237,10 9,10 Z M9,8 C10.6568542,8 12,6.65685425 12,5 C12,3.34314575 10.6568542,2 9,2 C7.34314575,2 6,3.34314575 6,5 C6,6.65685425 7.34314575,8 9,8 Z" /></svg>						</span>
+						<span class="meta-text">
+							By <a href="http://bhamobscura.com/author/pete/">Pete Ashton</a>						</span>
+					</li>
+										<li class="post-date meta-wrapper">
+						<span class="meta-icon">
+							<span class="screen-reader-text">
+								Post date							</span>
+							<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="19" viewBox="0 0 18 19"><path fill="" d="M4.60069444,4.09375 L3.25,4.09375 C2.47334957,4.09375 1.84375,4.72334957 1.84375,5.5 L1.84375,7.26736111 L16.15625,7.26736111 L16.15625,5.5 C16.15625,4.72334957 15.5266504,4.09375 14.75,4.09375 L13.3993056,4.09375 L13.3993056,4.55555556 C13.3993056,5.02154581 13.0215458,5.39930556 12.5555556,5.39930556 C12.0895653,5.39930556 11.7118056,5.02154581 11.7118056,4.55555556 L11.7118056,4.09375 L6.28819444,4.09375 L6.28819444,4.55555556 C6.28819444,5.02154581 5.9104347,5.39930556 5.44444444,5.39930556 C4.97845419,5.39930556 4.60069444,5.02154581 4.60069444,4.55555556 L4.60069444,4.09375 Z M6.28819444,2.40625 L11.7118056,2.40625 L11.7118056,1 C11.7118056,0.534009742 12.0895653,0.15625 12.5555556,0.15625 C13.0215458,0.15625 13.3993056,0.534009742 13.3993056,1 L13.3993056,2.40625 L14.75,2.40625 C16.4586309,2.40625 17.84375,3.79136906 17.84375,5.5 L17.84375,15.875 C17.84375,17.5836309 16.4586309,18.96875 14.75,18.96875 L3.25,18.96875 C1.54136906,18.96875 0.15625,17.5836309 0.15625,15.875 L0.15625,5.5 C0.15625,3.79136906 1.54136906,2.40625 3.25,2.40625 L4.60069444,2.40625 L4.60069444,1 C4.60069444,0.534009742 4.97845419,0.15625 5.44444444,0.15625 C5.9104347,0.15625 6.28819444,0.534009742 6.28819444,1 L6.28819444,2.40625 Z M1.84375,8.95486111 L1.84375,15.875 C1.84375,16.6516504 2.47334957,17.28125 3.25,17.28125 L14.75,17.28125 C15.5266504,17.28125 16.15625,16.6516504 16.15625,15.875 L16.15625,8.95486111 L1.84375,8.95486111 Z" /></svg>						</span>
+						<span class="meta-text">
+							<a href="http://bhamobscura.com/2016/01/sketching-obscura-at-the-warwick-arts-centre/">January 16, 2016</a>
+						</span>
+					</li>
+					
+			</ul><!-- .post-meta -->
+
+		</div><!-- .post-meta-wrapper -->
+
+		
+	</div><!-- .entry-header-inner -->
+
+</header><!-- .entry-header -->
+
+	<div class="post-inner thin ">
+
+		<div class="entry-content">
+
+			<p>Yesterday Jenny and I attended the opening of <a href="http://www.warwickartscentre.co.uk/whats-on/2016/gerard-byrne-1125-of-a-second/">Gerard Byrne's exhibition</a> at the Mead Gallery within the Warwick Arts Centre. The centrepiece, a new work called <em>Jielemeguvvie guvvie sjisjnjeli – Film inside an image</em>, is quite spectacular and well worth a visit. </p>
+<p>Alongside the exhibition is an educational room curated by <a href="http://www.jogane.co.uk">Jo Gane</a> looking at the history of photography, and we were asked to build a small camera obscura for drawing on. We'd been wanting to make a new camera so gladly took up this modest commission. </p>
+<p>Here it is in situ, next to <a href="http://www.kerryleslie.com">Kerry Leslie</a>'s diagram (who is also under the cover). </p>
+<p><img fetchpriority="high" decoding="async" src="http://bhamobscura.com/wp-content/uploads/sites/11/2016/01/IMG_0407-1024x768.jpg" alt="IMG_0407" width="625" height="469" class="alignnone size-large wp-image-1632" srcset="http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2016/01/IMG_0407-1024x768.jpg 1024w, http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2016/01/IMG_0407-300x225.jpg 300w, http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2016/01/IMG_0407-768x576.jpg 768w, http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2016/01/IMG_0407-624x468.jpg 624w, http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2016/01/IMG_0407-100x75.jpg 100w" sizes="(max-width: 625px) 100vw, 625px" /></p>
+<p>We used an old cabinet donated by a neighbour and neatly cut a hole in the front and top. The front has a +2 close-up lens (twice as strong as the one in our big camera) which focusses at about 50cm away. The top has a thick piece of frosted plastic which captures the image from behind allowing you to place tracing paper over it and make a drawing. Inside the cabinet is a mirror at 45 degrees. </p>
+<p>Like all cameras that are made from scratch, it's an experiment that we didn't completely know would work until it was installed in the gallery, but we're happy with it. Where it fails is with the internal lighting which is only just bright enough, but were it moved outside it would be perfect. The view is also a little low, capturing people's legs rather than their heads, but that can be fixed by raising the camera up a couple of steps, or people crouching down.</p>
+<p>But it works, and everyone is pleased, so we're pleased. Not bad for a week's work!</p>
+<p>The exhibition is on for three months with our camera in situ throughout. We'll also be <a href="http://www.warwickartscentre.co.uk/whats-on/2016/camera-obscura-/">bringing the big camera to Warwick</a> during half term on Tuesday Feb 16th for the afternoon and running build-your-own workshops as part of a <a href="http://www.warwickartscentre.co.uk/whats-on/2016/creative-week-in-the-mead-gallery/">week of activities</a>. Hope to see you there! </p>
+
+		</div><!-- .entry-content -->
+
+	</div><!-- .post-inner -->
+
+	<div class="section-inner">
+		
+	</div><!-- .section-inner -->
+
+	
+</article><!-- .post -->
+<hr class="post-separator styled-separator is-style-wide section-inner" aria-hidden="true" />
+<article class="post-1614 post type-post status-publish format-standard hentry category-news" id="post-1614">
+
+	
+<header class="entry-header has-text-align-center">
+
+	<div class="entry-header-inner section-inner medium">
+
+		
+			<div class="entry-categories">
+				<span class="screen-reader-text">
+					Categories				</span>
+				<div class="entry-categories-inner">
+					<a href="http://bhamobscura.com/category/news/" rel="category tag">News</a>				</div><!-- .entry-categories-inner -->
+			</div><!-- .entry-categories -->
+
+			<h2 class="entry-title heading-size-1"><a href="http://bhamobscura.com/2016/01/years-roundup/">2015 year's roundup</a></h2>
+		<div class="post-meta-wrapper post-meta-single post-meta-single-top">
+
+			<ul class="post-meta">
+
+									<li class="post-author meta-wrapper">
+						<span class="meta-icon">
+							<span class="screen-reader-text">
+								Post author							</span>
+							<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="20" viewBox="0 0 18 20"><path fill="" d="M18,19 C18,19.5522847 17.5522847,20 17,20 C16.4477153,20 16,19.5522847 16,19 L16,17 C16,15.3431458 14.6568542,14 13,14 L5,14 C3.34314575,14 2,15.3431458 2,17 L2,19 C2,19.5522847 1.55228475,20 1,20 C0.44771525,20 0,19.5522847 0,19 L0,17 C0,14.2385763 2.23857625,12 5,12 L13,12 C15.7614237,12 18,14.2385763 18,17 L18,19 Z M9,10 C6.23857625,10 4,7.76142375 4,5 C4,2.23857625 6.23857625,0 9,0 C11.7614237,0 14,2.23857625 14,5 C14,7.76142375 11.7614237,10 9,10 Z M9,8 C10.6568542,8 12,6.65685425 12,5 C12,3.34314575 10.6568542,2 9,2 C7.34314575,2 6,3.34314575 6,5 C6,6.65685425 7.34314575,8 9,8 Z" /></svg>						</span>
+						<span class="meta-text">
+							By <a href="http://bhamobscura.com/author/jenny/">Jenny Duffin</a>						</span>
+					</li>
+										<li class="post-date meta-wrapper">
+						<span class="meta-icon">
+							<span class="screen-reader-text">
+								Post date							</span>
+							<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="19" viewBox="0 0 18 19"><path fill="" d="M4.60069444,4.09375 L3.25,4.09375 C2.47334957,4.09375 1.84375,4.72334957 1.84375,5.5 L1.84375,7.26736111 L16.15625,7.26736111 L16.15625,5.5 C16.15625,4.72334957 15.5266504,4.09375 14.75,4.09375 L13.3993056,4.09375 L13.3993056,4.55555556 C13.3993056,5.02154581 13.0215458,5.39930556 12.5555556,5.39930556 C12.0895653,5.39930556 11.7118056,5.02154581 11.7118056,4.55555556 L11.7118056,4.09375 L6.28819444,4.09375 L6.28819444,4.55555556 C6.28819444,5.02154581 5.9104347,5.39930556 5.44444444,5.39930556 C4.97845419,5.39930556 4.60069444,5.02154581 4.60069444,4.55555556 L4.60069444,4.09375 Z M6.28819444,2.40625 L11.7118056,2.40625 L11.7118056,1 C11.7118056,0.534009742 12.0895653,0.15625 12.5555556,0.15625 C13.0215458,0.15625 13.3993056,0.534009742 13.3993056,1 L13.3993056,2.40625 L14.75,2.40625 C16.4586309,2.40625 17.84375,3.79136906 17.84375,5.5 L17.84375,15.875 C17.84375,17.5836309 16.4586309,18.96875 14.75,18.96875 L3.25,18.96875 C1.54136906,18.96875 0.15625,17.5836309 0.15625,15.875 L0.15625,5.5 C0.15625,3.79136906 1.54136906,2.40625 3.25,2.40625 L4.60069444,2.40625 L4.60069444,1 C4.60069444,0.534009742 4.97845419,0.15625 5.44444444,0.15625 C5.9104347,0.15625 6.28819444,0.534009742 6.28819444,1 L6.28819444,2.40625 Z M1.84375,8.95486111 L1.84375,15.875 C1.84375,16.6516504 2.47334957,17.28125 3.25,17.28125 L14.75,17.28125 C15.5266504,17.28125 16.15625,16.6516504 16.15625,15.875 L16.15625,8.95486111 L1.84375,8.95486111 Z" /></svg>						</span>
+						<span class="meta-text">
+							<a href="http://bhamobscura.com/2016/01/years-roundup/">January 5, 2016</a>
+						</span>
+					</li>
+					
+			</ul><!-- .post-meta -->
+
+		</div><!-- .post-meta-wrapper -->
+
+		
+	</div><!-- .entry-header-inner -->
+
+</header><!-- .entry-header -->
+
+	<div class="post-inner thin ">
+
+		<div class="entry-content">
+
+			<p><a href="http://bhamobscura.com/wp-content/uploads/sites/11/2015/12/Festive-hilarity.jpg" rel="attachment wp-att-1615"><img decoding="async" class="alignnone size-large wp-image-1615" src="http://bhamobscura.com/wp-content/uploads/sites/11/2015/12/Festive-hilarity-1024x1019.jpg" alt="Festive hilarity" width="625" height="622" srcset="http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2015/12/Festive-hilarity-1024x1019.jpg 1024w, http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2015/12/Festive-hilarity-150x150.jpg 150w, http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2015/12/Festive-hilarity-300x300.jpg 300w, http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2015/12/Festive-hilarity-768x764.jpg 768w, http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2015/12/Festive-hilarity-624x621.jpg 624w" sizes="(max-width: 625px) 100vw, 625px" /></a><br />
+<strong>(Slightly late now) Festive Greetings from Jenny and Pete</strong></p>
+<p><strong>Happy New Year!</strong><br />
+Firstly we’d like to say a big Thank You to all of those who have supported us this year, from being part of the <a href="https://www.kickstarter.com/projects/peteashton/birmingham-camera-obscura" target="_blank">Kickstarter campaign</a> in late 2014 which allowed us to actually build the new camera in 2015, to those of you who visited us at events, took an interest, who spread the word, hired us for an event, applied to our artist callout or attended a workshop (and the rest). And also to Arts Council England for funding our next phase!</p>
+<p>We hope you all had a good festive break. Here’s to 2016 being just as exciting.</p>
+<p>2015 in summary:</p>
+<p><strong>January &#8211; March</strong></p>
+<p>We started the year with moving into <a href="http://www.bom.org.uk/" target="_blank">BOM</a> after successfully raising enough money through our Kicktstarter campaign to build a new camera. Tim at Pinhole Solutions then kindly donated the lens housing to us and we started talking to Matt Moore about building the wooden structure of the camera. In March we held a workshop for Flatpack and had a window installation of mini camera obscuras at Home Deli.</p>
+<p><strong>April-June</strong></p>
+<p>In late April we received the finished wooden sections from Carpenter Matt. In May we posted a callout to artists to get involved with the camera obscura and were delighted with the response. In June we took the camera out to Digbeth First Friday and setup by the canal. This was a test run as it wasn’t quite finished, but great to get out in public again.</p>
+<p><a href="http://bhamobscura.com/wp-content/uploads/sites/11/2015/12/flatpack-workshop-thurs-10.jpg" rel="attachment wp-att-1616"><img decoding="async" class="wp-image-1616 alignleft" src="http://bhamobscura.com/wp-content/uploads/sites/11/2015/12/flatpack-workshop-thurs-10-1024x678.jpg" alt="flatpack workshop thurs 10" width="266" height="176" srcset="http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2015/12/flatpack-workshop-thurs-10-1024x678.jpg 1024w, http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2015/12/flatpack-workshop-thurs-10-300x199.jpg 300w, http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2015/12/flatpack-workshop-thurs-10-768x509.jpg 768w, http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2015/12/flatpack-workshop-thurs-10-624x413.jpg 624w" sizes="(max-width: 266px) 100vw, 266px" /></a><a href="http://bhamobscura.com/wp-content/uploads/sites/11/2015/12/20150605_181447.jpg" rel="attachment wp-att-1617"><img loading="lazy" decoding="async" class="alignnone wp-image-1617" src="http://bhamobscura.com/wp-content/uploads/sites/11/2015/12/20150605_181447-1024x768.jpg" alt="20150605_181447" width="248" height="186" srcset="http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2015/12/20150605_181447-1024x768.jpg 1024w, http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2015/12/20150605_181447-300x225.jpg 300w, http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2015/12/20150605_181447-768x576.jpg 768w, http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2015/12/20150605_181447-624x468.jpg 624w, http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2015/12/20150605_181447-100x75.jpg 100w" sizes="(max-width: 248px) 100vw, 248px" /></a></p>
+<p><strong>July-Sept<br />
+</strong><br />
+Outings outings outings.</p>
+<p>July 4th: CoCoMad</p>
+<p>July 3-12th: Moseley Festival. Installation of two miniature camera obscuras in the garden at Maison Mayci for the duration of the festival.</p>
+<p>July 18th: Jewellery Quarter Festival.</p>
+<p>Aug 18th &amp; 19th: Kirkby workshops</p>
+<p>Aug 29th: Moseley Bog with Birmingham &amp; Black Country Wildlife Trust</p>
+<p>September 1st: Stirchley Community Market</p>
+<p><strong>Oct-Dec</strong></p>
+<p>October 10th: Winterbourne House and Gardens</p>
+<p>October 17th: Highbury Harvest</p>
+<p>In October we made our first official school visit, to Lyndon in Solihull, and it was ace. Speaking of ace, we also received confirmation of Arts Council funding in October, supporting a 6 month R&amp;D process over the winter months with our 5 chosen artists.</p>
+<p><a href="http://bhamobscura.com/wp-content/uploads/sites/11/2016/01/20150718_113957.jpg" rel="attachment wp-att-1621"><img loading="lazy" decoding="async" class="alignnone wp-image-1621" src="http://bhamobscura.com/wp-content/uploads/sites/11/2016/01/20150718_113957-1024x768.jpg" alt="20150718_113957" width="251" height="188" srcset="http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2016/01/20150718_113957-1024x768.jpg 1024w, http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2016/01/20150718_113957-300x225.jpg 300w, http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2016/01/20150718_113957-768x576.jpg 768w, http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2016/01/20150718_113957-624x468.jpg 624w, http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2016/01/20150718_113957-100x75.jpg 100w" sizes="(max-width: 251px) 100vw, 251px" /></a><a href="http://bhamobscura.com/wp-content/uploads/sites/11/2016/01/DSCF5105.jpg" rel="attachment wp-att-1622"><img loading="lazy" decoding="async" class="alignnone wp-image-1622" src="http://bhamobscura.com/wp-content/uploads/sites/11/2016/01/DSCF5105-1024x683.jpg" alt="DSCF5105" width="281" height="188" srcset="http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2016/01/DSCF5105-1024x683.jpg 1024w, http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2016/01/DSCF5105-300x200.jpg 300w, http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2016/01/DSCF5105-768x512.jpg 768w, http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2016/01/DSCF5105-624x416.jpg 624w" sizes="(max-width: 281px) 100vw, 281px" /><br />
+</a><strong><br />
+So what does 2016 hold?</strong></p>
+<ul>
+<li>Workshops and other collaborations with Winterbourne House and Gardens</li>
+<li>The artistic outcomes of the artist R&amp;D with our famous five.</li>
+<li>Workshops and an exhibition of the artists’ process at Bom</li>
+<li>Workshop and involvement with Warwick Arts Centre</li>
+<li>Capture Birmingham</li>
+</ul>
+<p><a href="http://bhamobscura.com/wp-content/uploads/sites/11/2016/01/IMG_0105.jpg" rel="attachment wp-att-1623"><img loading="lazy" decoding="async" class="alignnone wp-image-1623" src="http://bhamobscura.com/wp-content/uploads/sites/11/2016/01/IMG_0105-1024x684.jpg" alt="IMG_0105" width="268" height="179" srcset="http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2016/01/IMG_0105-1024x684.jpg 1024w, http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2016/01/IMG_0105-300x200.jpg 300w, http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2016/01/IMG_0105-768x513.jpg 768w, http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2016/01/IMG_0105-624x417.jpg 624w" sizes="(max-width: 268px) 100vw, 268px" /></a><a href="http://bhamobscura.com/wp-content/uploads/sites/11/2016/01/CTd4V3PWIAA3eSi.jpg" rel="attachment wp-att-1624"><img loading="lazy" decoding="async" class="alignnone wp-image-1624" src="http://bhamobscura.com/wp-content/uploads/sites/11/2016/01/CTd4V3PWIAA3eSi.jpg" alt="CTd4V3PWIAA3eSi" width="235" height="176" srcset="http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2016/01/CTd4V3PWIAA3eSi.jpg 600w, http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2016/01/CTd4V3PWIAA3eSi-300x225.jpg 300w, http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2016/01/CTd4V3PWIAA3eSi-100x75.jpg 100w" sizes="(max-width: 235px) 100vw, 235px" /></a></p>
+<p style="text-align: center;"><strong>See you next year!</strong></p>
+<p style="text-align: center;">Jenny and Pete</p>
+<p style="text-align: center;"><a href="http://bhamobscura.us2.list-manage.com/track/click?u=7831fcef470b0e8f86ec0af40&amp;id=c0673133fe&amp;e=e4fcf1a305" target="_blank">bhamobscura.com</a></p>
+
+		</div><!-- .entry-content -->
+
+	</div><!-- .post-inner -->
+
+	<div class="section-inner">
+		
+	</div><!-- .section-inner -->
+
+	
+</article><!-- .post -->
+<hr class="post-separator styled-separator is-style-wide section-inner" aria-hidden="true" />
+<article class="post-1606 post type-post status-publish format-standard hentry category-art-obscura" id="post-1606">
+
+	
+<header class="entry-header has-text-align-center">
+
+	<div class="entry-header-inner section-inner medium">
+
+		
+			<div class="entry-categories">
+				<span class="screen-reader-text">
+					Categories				</span>
+				<div class="entry-categories-inner">
+					<a href="http://bhamobscura.com/category/art-obscura/" rel="category tag">Art Obscura</a>				</div><!-- .entry-categories-inner -->
+			</div><!-- .entry-categories -->
+
+			<h2 class="entry-title heading-size-1"><a href="http://bhamobscura.com/2015/11/richard_learoyd/">Richard Learoyd's Dark Mirror at the V&#038;A &#8211; a review</a></h2>
+		<div class="post-meta-wrapper post-meta-single post-meta-single-top">
+
+			<ul class="post-meta">
+
+									<li class="post-author meta-wrapper">
+						<span class="meta-icon">
+							<span class="screen-reader-text">
+								Post author							</span>
+							<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="20" viewBox="0 0 18 20"><path fill="" d="M18,19 C18,19.5522847 17.5522847,20 17,20 C16.4477153,20 16,19.5522847 16,19 L16,17 C16,15.3431458 14.6568542,14 13,14 L5,14 C3.34314575,14 2,15.3431458 2,17 L2,19 C2,19.5522847 1.55228475,20 1,20 C0.44771525,20 0,19.5522847 0,19 L0,17 C0,14.2385763 2.23857625,12 5,12 L13,12 C15.7614237,12 18,14.2385763 18,17 L18,19 Z M9,10 C6.23857625,10 4,7.76142375 4,5 C4,2.23857625 6.23857625,0 9,0 C11.7614237,0 14,2.23857625 14,5 C14,7.76142375 11.7614237,10 9,10 Z M9,8 C10.6568542,8 12,6.65685425 12,5 C12,3.34314575 10.6568542,2 9,2 C7.34314575,2 6,3.34314575 6,5 C6,6.65685425 7.34314575,8 9,8 Z" /></svg>						</span>
+						<span class="meta-text">
+							By <a href="http://bhamobscura.com/author/pete/">Pete Ashton</a>						</span>
+					</li>
+										<li class="post-date meta-wrapper">
+						<span class="meta-icon">
+							<span class="screen-reader-text">
+								Post date							</span>
+							<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="19" viewBox="0 0 18 19"><path fill="" d="M4.60069444,4.09375 L3.25,4.09375 C2.47334957,4.09375 1.84375,4.72334957 1.84375,5.5 L1.84375,7.26736111 L16.15625,7.26736111 L16.15625,5.5 C16.15625,4.72334957 15.5266504,4.09375 14.75,4.09375 L13.3993056,4.09375 L13.3993056,4.55555556 C13.3993056,5.02154581 13.0215458,5.39930556 12.5555556,5.39930556 C12.0895653,5.39930556 11.7118056,5.02154581 11.7118056,4.55555556 L11.7118056,4.09375 L6.28819444,4.09375 L6.28819444,4.55555556 C6.28819444,5.02154581 5.9104347,5.39930556 5.44444444,5.39930556 C4.97845419,5.39930556 4.60069444,5.02154581 4.60069444,4.55555556 L4.60069444,4.09375 Z M6.28819444,2.40625 L11.7118056,2.40625 L11.7118056,1 C11.7118056,0.534009742 12.0895653,0.15625 12.5555556,0.15625 C13.0215458,0.15625 13.3993056,0.534009742 13.3993056,1 L13.3993056,2.40625 L14.75,2.40625 C16.4586309,2.40625 17.84375,3.79136906 17.84375,5.5 L17.84375,15.875 C17.84375,17.5836309 16.4586309,18.96875 14.75,18.96875 L3.25,18.96875 C1.54136906,18.96875 0.15625,17.5836309 0.15625,15.875 L0.15625,5.5 C0.15625,3.79136906 1.54136906,2.40625 3.25,2.40625 L4.60069444,2.40625 L4.60069444,1 C4.60069444,0.534009742 4.97845419,0.15625 5.44444444,0.15625 C5.9104347,0.15625 6.28819444,0.534009742 6.28819444,1 L6.28819444,2.40625 Z M1.84375,8.95486111 L1.84375,15.875 C1.84375,16.6516504 2.47334957,17.28125 3.25,17.28125 L14.75,17.28125 C15.5266504,17.28125 16.15625,16.6516504 16.15625,15.875 L16.15625,8.95486111 L1.84375,8.95486111 Z" /></svg>						</span>
+						<span class="meta-text">
+							<a href="http://bhamobscura.com/2015/11/richard_learoyd/">November 1, 2015</a>
+						</span>
+					</li>
+					
+			</ul><!-- .post-meta -->
+
+		</div><!-- .post-meta-wrapper -->
+
+		
+	</div><!-- .entry-header-inner -->
+
+</header><!-- .entry-header -->
+
+	<div class="post-inner thin ">
+
+		<div class="entry-content">
+
+			<p><em>Pete pops down to London to see an exhibition of prints made with a camera obscura</em></p>
+<p><a href="http://www.theguardian.com/artanddesign/2015/oct/23/richard-learoyd-dark-mirror-camera-obscura-photography-vanda-museum-artworks#img-4"><img loading="lazy" decoding="async" class="alignnone size-full wp-image-1607" src="http://bhamobscura.com/wp-content/uploads/sites/11/2015/11/6973.jpg" alt="Model 1 (detail) by Richard Learoyd" width="620" height="737" srcset="http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2015/11/6973.jpg 620w, http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2015/11/6973-252x300.jpg 252w" sizes="(max-width: 620px) 100vw, 620px" /></a></p>
+<p>I was initially skeptical of <a href="http://www.vam.ac.uk/whatson/event/4693/richard-learoyd-dark-mirror-1949746637/">Richard Learoyd's work, currently on show at the V&amp;A</a>. He claims to make photographs with a camera obscura and that doesn't make sense. A camera obscura doesn't make photographs. If it does, then it's no longer an obscura, it's just a camera, regardless of its size. (Camera Photographica, maybe?) A camera obscura, by my definition, is a camera you get inside and see the projected image with your own eyes, not a dark box in which a light-sensitive surface is exposed to photons. Regardless of the outcome, if Learoyd is using a camera obscura, then so are all photographers. And if we allow that then the "dark room" is rendered meaningless. So you can see why I might object to that.</p>
+<p>Thankfully the work is amazingly good. He uses large sheets of positive photographic paper to make a unique print inside the camera, very nearly capturing the uncanny hyper-realism of the camera obscura projection. In the portraits, hair, moles and other tiny details on the skin are clearly visible and skin tones are so subtle. This alone would be impressive, but he also makes good use of the camera obscura's extreme depth of focus where the clarity suddenly falls off creating an eerie mist around the subject.</p>
+<p>The prints were the closest I've come to seeing the strangeness of the camera obscura experience rendered on paper. They were unique to that device and couldn't have been made in a standard camera, regardless of its size. This is true camera obscura art, and I'm sure Learoyd will be delighted to hear of my approval.</p>
+<p>His process is also intriguing. As I understand it, his camera has two rooms, one for the model and one for the exposure. Once the model is posed and the focus fixed, the lights are turned off, the paper installed and an exposure made by triggering a powerful flash. We've been pondering how to make prints with our camera, struggling with the logistics of a shutter, and this system of simply controlling the lighting makes much more sense, assuming you have access to strong flash guns.</p>
+<p>The exhibition is free to enter at the V&amp;A until Feb 14th 2016 (<a href="http://www.vam.ac.uk/whatson/event/4693/richard-learoyd-dark-mirror-1949746637/">info</a>) and is highly recommended. See also this <a href="http://www.theguardian.com/artanddesign/2015/oct/23/richard-learoyd-dark-mirror-camera-obscura-photography-vanda-museum-artworks">Guardian interview.</a></p>
+
+		</div><!-- .entry-content -->
+
+	</div><!-- .post-inner -->
+
+	<div class="section-inner">
+		
+	</div><!-- .section-inner -->
+
+	
+</article><!-- .post -->
+<hr class="post-separator styled-separator is-style-wide section-inner" aria-hidden="true" />
+<article class="post-1580 post type-post status-publish format-standard hentry category-news" id="post-1580">
+
+	
+<header class="entry-header has-text-align-center">
+
+	<div class="entry-header-inner section-inner medium">
+
+		
+			<div class="entry-categories">
+				<span class="screen-reader-text">
+					Categories				</span>
+				<div class="entry-categories-inner">
+					<a href="http://bhamobscura.com/category/news/" rel="category tag">News</a>				</div><!-- .entry-categories-inner -->
+			</div><!-- .entry-categories -->
+
+			<h2 class="entry-title heading-size-1"><a href="http://bhamobscura.com/2015/10/highbury-harvest-last-official-outing-this-year/">Highbury Harvest: last official outing this year</a></h2>
+		<div class="post-meta-wrapper post-meta-single post-meta-single-top">
+
+			<ul class="post-meta">
+
+									<li class="post-author meta-wrapper">
+						<span class="meta-icon">
+							<span class="screen-reader-text">
+								Post author							</span>
+							<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="20" viewBox="0 0 18 20"><path fill="" d="M18,19 C18,19.5522847 17.5522847,20 17,20 C16.4477153,20 16,19.5522847 16,19 L16,17 C16,15.3431458 14.6568542,14 13,14 L5,14 C3.34314575,14 2,15.3431458 2,17 L2,19 C2,19.5522847 1.55228475,20 1,20 C0.44771525,20 0,19.5522847 0,19 L0,17 C0,14.2385763 2.23857625,12 5,12 L13,12 C15.7614237,12 18,14.2385763 18,17 L18,19 Z M9,10 C6.23857625,10 4,7.76142375 4,5 C4,2.23857625 6.23857625,0 9,0 C11.7614237,0 14,2.23857625 14,5 C14,7.76142375 11.7614237,10 9,10 Z M9,8 C10.6568542,8 12,6.65685425 12,5 C12,3.34314575 10.6568542,2 9,2 C7.34314575,2 6,3.34314575 6,5 C6,6.65685425 7.34314575,8 9,8 Z" /></svg>						</span>
+						<span class="meta-text">
+							By <a href="http://bhamobscura.com/author/jenny/">Jenny Duffin</a>						</span>
+					</li>
+										<li class="post-date meta-wrapper">
+						<span class="meta-icon">
+							<span class="screen-reader-text">
+								Post date							</span>
+							<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="19" viewBox="0 0 18 19"><path fill="" d="M4.60069444,4.09375 L3.25,4.09375 C2.47334957,4.09375 1.84375,4.72334957 1.84375,5.5 L1.84375,7.26736111 L16.15625,7.26736111 L16.15625,5.5 C16.15625,4.72334957 15.5266504,4.09375 14.75,4.09375 L13.3993056,4.09375 L13.3993056,4.55555556 C13.3993056,5.02154581 13.0215458,5.39930556 12.5555556,5.39930556 C12.0895653,5.39930556 11.7118056,5.02154581 11.7118056,4.55555556 L11.7118056,4.09375 L6.28819444,4.09375 L6.28819444,4.55555556 C6.28819444,5.02154581 5.9104347,5.39930556 5.44444444,5.39930556 C4.97845419,5.39930556 4.60069444,5.02154581 4.60069444,4.55555556 L4.60069444,4.09375 Z M6.28819444,2.40625 L11.7118056,2.40625 L11.7118056,1 C11.7118056,0.534009742 12.0895653,0.15625 12.5555556,0.15625 C13.0215458,0.15625 13.3993056,0.534009742 13.3993056,1 L13.3993056,2.40625 L14.75,2.40625 C16.4586309,2.40625 17.84375,3.79136906 17.84375,5.5 L17.84375,15.875 C17.84375,17.5836309 16.4586309,18.96875 14.75,18.96875 L3.25,18.96875 C1.54136906,18.96875 0.15625,17.5836309 0.15625,15.875 L0.15625,5.5 C0.15625,3.79136906 1.54136906,2.40625 3.25,2.40625 L4.60069444,2.40625 L4.60069444,1 C4.60069444,0.534009742 4.97845419,0.15625 5.44444444,0.15625 C5.9104347,0.15625 6.28819444,0.534009742 6.28819444,1 L6.28819444,2.40625 Z M1.84375,8.95486111 L1.84375,15.875 C1.84375,16.6516504 2.47334957,17.28125 3.25,17.28125 L14.75,17.28125 C15.5266504,17.28125 16.15625,16.6516504 16.15625,15.875 L16.15625,8.95486111 L1.84375,8.95486111 Z" /></svg>						</span>
+						<span class="meta-text">
+							<a href="http://bhamobscura.com/2015/10/highbury-harvest-last-official-outing-this-year/">October 28, 2015</a>
+						</span>
+					</li>
+					
+			</ul><!-- .post-meta -->
+
+		</div><!-- .post-meta-wrapper -->
+
+		
+	</div><!-- .entry-header-inner -->
+
+</header><!-- .entry-header -->
+
+	<div class="post-inner thin ">
+
+		<div class="entry-content">
+
+			<p>Last weekend, Oct 17th we went to <a href="http://www.peopleandland.org.uk/wp/?p=1986">Highbury Harvest at Highbury Park</a>, Kings Heath. As it turns out, this was the last Camera Obscura public outing this year. The event had a lovely community atmosphere and we were situated right by the main path where footfall was good, as people were moving towards the 'main event'.</p>
+<p><a href="http://bhamobscura.com/wp-content/uploads/sites/11/2015/10/DSCF5058.jpg"><img loading="lazy" decoding="async" class="alignnone size-large wp-image-1589" src="http://bhamobscura.com/wp-content/uploads/sites/11/2015/10/DSCF5058-1024x683.jpg" alt="DSCF5058" width="625" height="417" srcset="http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2015/10/DSCF5058-1024x683.jpg 1024w, http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2015/10/DSCF5058-300x200.jpg 300w, http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2015/10/DSCF5058-624x416.jpg 624w" sizes="(max-width: 625px) 100vw, 625px" /></a></p>
+<p>We also tried something a bit different, we had the mini camera obscuras with us anyway as they were still in the car from our school visit, so we decided to hang them in the trees nearby. This worked out as a great way to demonstrate the way that the camera obscura works in a simpler way on a smaller scale, and away from the crowd.</p>
+<p><a href="http://bhamobscura.com/wp-content/uploads/sites/11/2015/10/DSCF5070.jpg"><img loading="lazy" decoding="async" class="alignnone size-large wp-image-1590" src="http://bhamobscura.com/wp-content/uploads/sites/11/2015/10/DSCF5070-1024x683.jpg" alt="DSCF5070" width="625" height="417" srcset="http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2015/10/DSCF5070-1024x683.jpg 1024w, http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2015/10/DSCF5070-300x200.jpg 300w, http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2015/10/DSCF5070-624x416.jpg 624w" sizes="(max-width: 625px) 100vw, 625px" /></a></p>
+<p>It was a bit gloomy, although dry, at first, but for a few hours mid afternoon we had some glorious autumnal blue sunshine.</p>
+<p><a href="http://bhamobscura.com/wp-content/uploads/sites/11/2015/10/IMG_0543.jpg"><img loading="lazy" decoding="async" class="alignnone size-large wp-image-1592" src="http://bhamobscura.com/wp-content/uploads/sites/11/2015/10/IMG_0543-1024x684.jpg" alt="IMG_0543" width="625" height="417" srcset="http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2015/10/IMG_0543-1024x684.jpg 1024w, http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2015/10/IMG_0543-300x200.jpg 300w, http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2015/10/IMG_0543-624x417.jpg 624w" sizes="(max-width: 625px) 100vw, 625px" /></a></p>
+<p><a href="http://bhamobscura.com/wp-content/uploads/sites/11/2015/10/IMG_0554.jpg"><img loading="lazy" decoding="async" class="alignnone size-large wp-image-1593" src="http://bhamobscura.com/wp-content/uploads/sites/11/2015/10/IMG_0554-1024x684.jpg" alt="IMG_0554" width="625" height="417" srcset="http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2015/10/IMG_0554-1024x684.jpg 1024w, http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2015/10/IMG_0554-300x200.jpg 300w, http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2015/10/IMG_0554-624x417.jpg 624w" sizes="(max-width: 625px) 100vw, 625px" /></a></p>
+<p><a href="http://bhamobscura.com/wp-content/uploads/sites/11/2015/10/DSCF5120.jpg"><img loading="lazy" decoding="async" class="alignnone size-large wp-image-1595" src="http://bhamobscura.com/wp-content/uploads/sites/11/2015/10/DSCF5120-1024x683.jpg" alt="DSCF5120" width="625" height="417" srcset="http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2015/10/DSCF5120-1024x683.jpg 1024w, http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2015/10/DSCF5120-300x200.jpg 300w, http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2015/10/DSCF5120-624x416.jpg 624w" sizes="(max-width: 625px) 100vw, 625px" /></a></p>
+<p>Thanks to the organisers of this event for inviting us along after seeing us in the Jewellery Quarter!</p>
+<p>This is the last public outing for the Camera Obscura this year, so if you know of any event happening next year which we should attend, then please <a href="http://bhamobscura.com/contact/" target="_blank">get in touch</a>!</p>
+
+		</div><!-- .entry-content -->
+
+	</div><!-- .post-inner -->
+
+	<div class="section-inner">
+		
+	</div><!-- .section-inner -->
+
+	
+</article><!-- .post -->
+<hr class="post-separator styled-separator is-style-wide section-inner" aria-hidden="true" />
+<article class="post-1578 post type-post status-publish format-standard hentry category-news" id="post-1578">
+
+	
+<header class="entry-header has-text-align-center">
+
+	<div class="entry-header-inner section-inner medium">
+
+		
+			<div class="entry-categories">
+				<span class="screen-reader-text">
+					Categories				</span>
+				<div class="entry-categories-inner">
+					<a href="http://bhamobscura.com/category/news/" rel="category tag">News</a>				</div><!-- .entry-categories-inner -->
+			</div><!-- .entry-categories -->
+
+			<h2 class="entry-title heading-size-1"><a href="http://bhamobscura.com/2015/10/school-visit-to-lyndon-school-solihull/">School Visit to Lyndon School Solihull</a></h2>
+		<div class="post-meta-wrapper post-meta-single post-meta-single-top">
+
+			<ul class="post-meta">
+
+									<li class="post-author meta-wrapper">
+						<span class="meta-icon">
+							<span class="screen-reader-text">
+								Post author							</span>
+							<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="20" viewBox="0 0 18 20"><path fill="" d="M18,19 C18,19.5522847 17.5522847,20 17,20 C16.4477153,20 16,19.5522847 16,19 L16,17 C16,15.3431458 14.6568542,14 13,14 L5,14 C3.34314575,14 2,15.3431458 2,17 L2,19 C2,19.5522847 1.55228475,20 1,20 C0.44771525,20 0,19.5522847 0,19 L0,17 C0,14.2385763 2.23857625,12 5,12 L13,12 C15.7614237,12 18,14.2385763 18,17 L18,19 Z M9,10 C6.23857625,10 4,7.76142375 4,5 C4,2.23857625 6.23857625,0 9,0 C11.7614237,0 14,2.23857625 14,5 C14,7.76142375 11.7614237,10 9,10 Z M9,8 C10.6568542,8 12,6.65685425 12,5 C12,3.34314575 10.6568542,2 9,2 C7.34314575,2 6,3.34314575 6,5 C6,6.65685425 7.34314575,8 9,8 Z" /></svg>						</span>
+						<span class="meta-text">
+							By <a href="http://bhamobscura.com/author/jenny/">Jenny Duffin</a>						</span>
+					</li>
+										<li class="post-date meta-wrapper">
+						<span class="meta-icon">
+							<span class="screen-reader-text">
+								Post date							</span>
+							<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="19" viewBox="0 0 18 19"><path fill="" d="M4.60069444,4.09375 L3.25,4.09375 C2.47334957,4.09375 1.84375,4.72334957 1.84375,5.5 L1.84375,7.26736111 L16.15625,7.26736111 L16.15625,5.5 C16.15625,4.72334957 15.5266504,4.09375 14.75,4.09375 L13.3993056,4.09375 L13.3993056,4.55555556 C13.3993056,5.02154581 13.0215458,5.39930556 12.5555556,5.39930556 C12.0895653,5.39930556 11.7118056,5.02154581 11.7118056,4.55555556 L11.7118056,4.09375 L6.28819444,4.09375 L6.28819444,4.55555556 C6.28819444,5.02154581 5.9104347,5.39930556 5.44444444,5.39930556 C4.97845419,5.39930556 4.60069444,5.02154581 4.60069444,4.55555556 L4.60069444,4.09375 Z M6.28819444,2.40625 L11.7118056,2.40625 L11.7118056,1 C11.7118056,0.534009742 12.0895653,0.15625 12.5555556,0.15625 C13.0215458,0.15625 13.3993056,0.534009742 13.3993056,1 L13.3993056,2.40625 L14.75,2.40625 C16.4586309,2.40625 17.84375,3.79136906 17.84375,5.5 L17.84375,15.875 C17.84375,17.5836309 16.4586309,18.96875 14.75,18.96875 L3.25,18.96875 C1.54136906,18.96875 0.15625,17.5836309 0.15625,15.875 L0.15625,5.5 C0.15625,3.79136906 1.54136906,2.40625 3.25,2.40625 L4.60069444,2.40625 L4.60069444,1 C4.60069444,0.534009742 4.97845419,0.15625 5.44444444,0.15625 C5.9104347,0.15625 6.28819444,0.534009742 6.28819444,1 L6.28819444,2.40625 Z M1.84375,8.95486111 L1.84375,15.875 C1.84375,16.6516504 2.47334957,17.28125 3.25,17.28125 L14.75,17.28125 C15.5266504,17.28125 16.15625,16.6516504 16.15625,15.875 L16.15625,8.95486111 L1.84375,8.95486111 Z" /></svg>						</span>
+						<span class="meta-text">
+							<a href="http://bhamobscura.com/2015/10/school-visit-to-lyndon-school-solihull/">October 22, 2015</a>
+						</span>
+					</li>
+					
+			</ul><!-- .post-meta -->
+
+		</div><!-- .post-meta-wrapper -->
+
+		
+	</div><!-- .entry-header-inner -->
+
+</header><!-- .entry-header -->
+
+	<div class="post-inner thin ">
+
+		<div class="entry-content">
+
+			<p>Last Wednesday we visited <a href="http://www.lyndonschool.co.uk">Lyndon School</a> in Solihull to show their students the Camera Obscura.</p>
+<p>This was the result of a conversation we had over the summer at CoCoMad, with Mr Spurr, a teacher at the school who took a shine to the device when he saw it at the family festival. Although we've had a lot of different conversations about going into schools, this was the first that actually came to fruition..</p>
+<p>We ended up showing the device to several different classes: Year 7 Science, Year 7 History, Year 9 Art &amp; Design and GCSE Photography. We gave a short talk about the project and camera obscuras, and then let the students see for themselves, whilst their classmates waved through the camera.</p>
+<blockquote class="twitter-tweet" lang="en">
+<p dir="ltr" lang="en">Year 7 <a href="https://twitter.com/LyndonScience">@LyndonScience</a> using the handheld <a href="https://twitter.com/hashtag/cameraobscura?src=hash">#cameraobscura</a> courtesy of <a href="https://twitter.com/BhamObscura">@BhamObscura</a> at <a href="https://twitter.com/LyndonSchool">@LyndonSchool</a> this morning <a href="http://t.co/GqKfOi5WgO">pic.twitter.com/GqKfOi5WgO</a></p>
+<p>— The Switch (@LyndonSwitch) <a href="https://twitter.com/LyndonSwitch/status/654263004423434240">October 14, 2015</a></p></blockquote>
+<p><script src="//platform.twitter.com/widgets.js" async="" charset="utf-8"></script></p>
+<blockquote class="instagram-media" style="background: #FFF; border: 0; border-radius: 3px; box-shadow: 0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width: 658px; padding: 0; width: calc(100% - 2px);" data-instgrm-captioned="" data-instgrm-version="5">
+<div style="padding: 8px;">
+<div style="background: #F8F8F8; line-height: 0; margin-top: 40px; padding: 50.0% 0; text-align: center; width: 100%;"></div>
+<p><a style="color: #000; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: normal; line-height: 17px; text-decoration: none; word-wrap: break-word;" href="https://instagram.com/p/80mjycpH_V/" target="_blank">A fantastic day @lyndonschool with @BhamObscura exploring #photography origins &amp; concepts #light #cameras #images</a> A photo posted by Mr Spurr @LyndonSwitch (@lyndonswitch) on <time style="font-family: Arial,sans-serif; font-size: 14px; line-height: 17px;" datetime="2015-10-14T14:48:07+00:00">Oct 14, 2015 at 7:48am PDT</time>
+</div>
+</blockquote>
+<p><script src="//platform.instagram.com/en_US/embeds.js" async="" defer="defer"></script></p>
+<p>It was really interesting seeing the different reactions from a ranges of students and hearing the questions that they came up with for us.</p>
+<p>We had some great feedback from the staff, and one of the students even said <strong>'This is actually good' </strong> so we count that as a success!</p>
+<p>The schools offer is one of many things we are hoping to develop as part of the <a href="http://bhamobscura.com/2015/10/arts-council-funding-secured/" target="_blank">Arts Council Funding </a>we had confirmation of last week so this will hopefully be the first of many.</p>
+
+		</div><!-- .entry-content -->
+
+	</div><!-- .post-inner -->
+
+	<div class="section-inner">
+		
+	</div><!-- .section-inner -->
+
+	
+</article><!-- .post -->
+<hr class="post-separator styled-separator is-style-wide section-inner" aria-hidden="true" />
+<article class="post-1569 post type-post status-publish format-standard hentry category-news" id="post-1569">
+
+	
+<header class="entry-header has-text-align-center">
+
+	<div class="entry-header-inner section-inner medium">
+
+		
+			<div class="entry-categories">
+				<span class="screen-reader-text">
+					Categories				</span>
+				<div class="entry-categories-inner">
+					<a href="http://bhamobscura.com/category/news/" rel="category tag">News</a>				</div><!-- .entry-categories-inner -->
+			</div><!-- .entry-categories -->
+
+			<h2 class="entry-title heading-size-1"><a href="http://bhamobscura.com/2015/10/arts-council-funding-secured/">Arts Council funding secured</a></h2>
+		<div class="post-meta-wrapper post-meta-single post-meta-single-top">
+
+			<ul class="post-meta">
+
+									<li class="post-author meta-wrapper">
+						<span class="meta-icon">
+							<span class="screen-reader-text">
+								Post author							</span>
+							<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="20" viewBox="0 0 18 20"><path fill="" d="M18,19 C18,19.5522847 17.5522847,20 17,20 C16.4477153,20 16,19.5522847 16,19 L16,17 C16,15.3431458 14.6568542,14 13,14 L5,14 C3.34314575,14 2,15.3431458 2,17 L2,19 C2,19.5522847 1.55228475,20 1,20 C0.44771525,20 0,19.5522847 0,19 L0,17 C0,14.2385763 2.23857625,12 5,12 L13,12 C15.7614237,12 18,14.2385763 18,17 L18,19 Z M9,10 C6.23857625,10 4,7.76142375 4,5 C4,2.23857625 6.23857625,0 9,0 C11.7614237,0 14,2.23857625 14,5 C14,7.76142375 11.7614237,10 9,10 Z M9,8 C10.6568542,8 12,6.65685425 12,5 C12,3.34314575 10.6568542,2 9,2 C7.34314575,2 6,3.34314575 6,5 C6,6.65685425 7.34314575,8 9,8 Z" /></svg>						</span>
+						<span class="meta-text">
+							By <a href="http://bhamobscura.com/author/pete/">Pete Ashton</a>						</span>
+					</li>
+										<li class="post-date meta-wrapper">
+						<span class="meta-icon">
+							<span class="screen-reader-text">
+								Post date							</span>
+							<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="19" viewBox="0 0 18 19"><path fill="" d="M4.60069444,4.09375 L3.25,4.09375 C2.47334957,4.09375 1.84375,4.72334957 1.84375,5.5 L1.84375,7.26736111 L16.15625,7.26736111 L16.15625,5.5 C16.15625,4.72334957 15.5266504,4.09375 14.75,4.09375 L13.3993056,4.09375 L13.3993056,4.55555556 C13.3993056,5.02154581 13.0215458,5.39930556 12.5555556,5.39930556 C12.0895653,5.39930556 11.7118056,5.02154581 11.7118056,4.55555556 L11.7118056,4.09375 L6.28819444,4.09375 L6.28819444,4.55555556 C6.28819444,5.02154581 5.9104347,5.39930556 5.44444444,5.39930556 C4.97845419,5.39930556 4.60069444,5.02154581 4.60069444,4.55555556 L4.60069444,4.09375 Z M6.28819444,2.40625 L11.7118056,2.40625 L11.7118056,1 C11.7118056,0.534009742 12.0895653,0.15625 12.5555556,0.15625 C13.0215458,0.15625 13.3993056,0.534009742 13.3993056,1 L13.3993056,2.40625 L14.75,2.40625 C16.4586309,2.40625 17.84375,3.79136906 17.84375,5.5 L17.84375,15.875 C17.84375,17.5836309 16.4586309,18.96875 14.75,18.96875 L3.25,18.96875 C1.54136906,18.96875 0.15625,17.5836309 0.15625,15.875 L0.15625,5.5 C0.15625,3.79136906 1.54136906,2.40625 3.25,2.40625 L4.60069444,2.40625 L4.60069444,1 C4.60069444,0.534009742 4.97845419,0.15625 5.44444444,0.15625 C5.9104347,0.15625 6.28819444,0.534009742 6.28819444,1 L6.28819444,2.40625 Z M1.84375,8.95486111 L1.84375,15.875 C1.84375,16.6516504 2.47334957,17.28125 3.25,17.28125 L14.75,17.28125 C15.5266504,17.28125 16.15625,16.6516504 16.15625,15.875 L16.15625,8.95486111 L1.84375,8.95486111 Z" /></svg>						</span>
+						<span class="meta-text">
+							<a href="http://bhamobscura.com/2015/10/arts-council-funding-secured/">October 15, 2015</a>
+						</span>
+					</li>
+					
+			</ul><!-- .post-meta -->
+
+		</div><!-- .post-meta-wrapper -->
+
+		
+	</div><!-- .entry-header-inner -->
+
+</header><!-- .entry-header -->
+
+	<div class="post-inner thin ">
+
+		<div class="entry-content">
+
+			<p>The big news of today is we've been successful in applying for some Arts Council funding. A few months ago we announced an <a href="http://bhamobscura.com/2015/05/call-out-for-artists/">Open Call</a> for artists to create new work with the Kickstarter funded camera obscura. The successful applicants were added to a <a href="http://www.artscouncil.org.uk/funding/grants-arts/">Grant for the Arts</a> submission for £10,800 over six months. We now have that money.</p>
+<p>This means a number of things can happen, some of which might not be obvious.</p>
+<p>The main one is five artworks / performances will emerge in the Spring of next year using our camera obscura. You can <a href="http://bhamobscura.com/2015/08/rd-artists-decided-upon/">read the submitted ideas</a> but be aware they will undergo substantial development over the winter!</p>
+<p>The other main thing is Jenny and Pete are now employed by Birmingham Camera Obscura for six months earning £500 a month each. While on paper this is to manage the funded R&#038;D activity, in reality it means we'll be able to dedicate significant time to the project as a whole and do the things we've had to put off in order to pay the rent. No more squeezing camera obscura work into our spare time. (The first priority will be sorting out the remaining Kickstarter rewards because that's just getting embarrassing!)</p>
+<p>Other things that will happen:</p>
+<ul>
+<li>More updates on the website. We need to document our activities and write more blog posts.</li>
+<li>Creation of an educational workshop package for schools. We had a good visit this week to <a href="http://www.lyndonschool.co.uk">Lyndon School</a> whose teachers are keen to help us develop it into something<br />
+we can take to schools across Birmingham.</li>
+<li>Consolidation and development of our resources. We've collected a lot of knowledge about camera obscuras over the last couple of years and need to sort it out, alongside the research our five artists will be undertaking.</li>
+<li>Development of a touring program for 2016. We've set aside some funds for consultation on how best to tour the camera, and the works developed for it, locally, nationally and internationally. We need to get it out there more frequently and more sustainably than we managed this year.</li>
+<li>Finishing bits of the camera. We always intended to give it some wheels and it needs to be more weather proof. We can get on with that now.</li>
+<li>Being more available at BOM and elsewhere. Alongside some formal workshops and open days for this specific project we're going to be available for people to come visit to discuss camera obscuras or just catch up with what we're doing.</li>
+<li>And plenty more which hasn't come to mind just now!</li>
+</ul>
+<p>If the Kickstarter was Stage Two of this project, then this feels like Stage Three, a major change in how we do things and laying some solid foundations for the future. Thanks as ever to everyone who's supported us to date, from giving a bit of cash to offering advice and wisdom. May there be many more stages!</p>
+
+		</div><!-- .entry-content -->
+
+	</div><!-- .post-inner -->
+
+	<div class="section-inner">
+		
+	</div><!-- .section-inner -->
+
+	
+</article><!-- .post -->
+<hr class="post-separator styled-separator is-style-wide section-inner" aria-hidden="true" />
+<article class="post-1571 post type-post status-publish format-standard hentry category-news" id="post-1571">
+
+	
+<header class="entry-header has-text-align-center">
+
+	<div class="entry-header-inner section-inner medium">
+
+		
+			<div class="entry-categories">
+				<span class="screen-reader-text">
+					Categories				</span>
+				<div class="entry-categories-inner">
+					<a href="http://bhamobscura.com/category/news/" rel="category tag">News</a>				</div><!-- .entry-categories-inner -->
+			</div><!-- .entry-categories -->
+
+			<h2 class="entry-title heading-size-1"><a href="http://bhamobscura.com/2015/10/highbury-harvest-this-saturday/">Highbury Harvest this Saturday</a></h2>
+		<div class="post-meta-wrapper post-meta-single post-meta-single-top">
+
+			<ul class="post-meta">
+
+									<li class="post-author meta-wrapper">
+						<span class="meta-icon">
+							<span class="screen-reader-text">
+								Post author							</span>
+							<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="20" viewBox="0 0 18 20"><path fill="" d="M18,19 C18,19.5522847 17.5522847,20 17,20 C16.4477153,20 16,19.5522847 16,19 L16,17 C16,15.3431458 14.6568542,14 13,14 L5,14 C3.34314575,14 2,15.3431458 2,17 L2,19 C2,19.5522847 1.55228475,20 1,20 C0.44771525,20 0,19.5522847 0,19 L0,17 C0,14.2385763 2.23857625,12 5,12 L13,12 C15.7614237,12 18,14.2385763 18,17 L18,19 Z M9,10 C6.23857625,10 4,7.76142375 4,5 C4,2.23857625 6.23857625,0 9,0 C11.7614237,0 14,2.23857625 14,5 C14,7.76142375 11.7614237,10 9,10 Z M9,8 C10.6568542,8 12,6.65685425 12,5 C12,3.34314575 10.6568542,2 9,2 C7.34314575,2 6,3.34314575 6,5 C6,6.65685425 7.34314575,8 9,8 Z" /></svg>						</span>
+						<span class="meta-text">
+							By <a href="http://bhamobscura.com/author/pete/">Pete Ashton</a>						</span>
+					</li>
+										<li class="post-date meta-wrapper">
+						<span class="meta-icon">
+							<span class="screen-reader-text">
+								Post date							</span>
+							<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="19" viewBox="0 0 18 19"><path fill="" d="M4.60069444,4.09375 L3.25,4.09375 C2.47334957,4.09375 1.84375,4.72334957 1.84375,5.5 L1.84375,7.26736111 L16.15625,7.26736111 L16.15625,5.5 C16.15625,4.72334957 15.5266504,4.09375 14.75,4.09375 L13.3993056,4.09375 L13.3993056,4.55555556 C13.3993056,5.02154581 13.0215458,5.39930556 12.5555556,5.39930556 C12.0895653,5.39930556 11.7118056,5.02154581 11.7118056,4.55555556 L11.7118056,4.09375 L6.28819444,4.09375 L6.28819444,4.55555556 C6.28819444,5.02154581 5.9104347,5.39930556 5.44444444,5.39930556 C4.97845419,5.39930556 4.60069444,5.02154581 4.60069444,4.55555556 L4.60069444,4.09375 Z M6.28819444,2.40625 L11.7118056,2.40625 L11.7118056,1 C11.7118056,0.534009742 12.0895653,0.15625 12.5555556,0.15625 C13.0215458,0.15625 13.3993056,0.534009742 13.3993056,1 L13.3993056,2.40625 L14.75,2.40625 C16.4586309,2.40625 17.84375,3.79136906 17.84375,5.5 L17.84375,15.875 C17.84375,17.5836309 16.4586309,18.96875 14.75,18.96875 L3.25,18.96875 C1.54136906,18.96875 0.15625,17.5836309 0.15625,15.875 L0.15625,5.5 C0.15625,3.79136906 1.54136906,2.40625 3.25,2.40625 L4.60069444,2.40625 L4.60069444,1 C4.60069444,0.534009742 4.97845419,0.15625 5.44444444,0.15625 C5.9104347,0.15625 6.28819444,0.534009742 6.28819444,1 L6.28819444,2.40625 Z M1.84375,8.95486111 L1.84375,15.875 C1.84375,16.6516504 2.47334957,17.28125 3.25,17.28125 L14.75,17.28125 C15.5266504,17.28125 16.15625,16.6516504 16.15625,15.875 L16.15625,8.95486111 L1.84375,8.95486111 Z" /></svg>						</span>
+						<span class="meta-text">
+							<a href="http://bhamobscura.com/2015/10/highbury-harvest-this-saturday/">October 15, 2015</a>
+						</span>
+					</li>
+					
+			</ul><!-- .post-meta -->
+
+		</div><!-- .post-meta-wrapper -->
+
+		
+	</div><!-- .entry-header-inner -->
+
+</header><!-- .entry-header -->
+
+	<div class="post-inner thin ">
+
+		<div class="entry-content">
+
+			<p>Weather permitting (and it's currently looking at bit iffy) the camera obscura will be set up at <a href="http://www.peopleandland.org.uk/wp/?p=1986">Highbury Park</a>, between Kings Heath and Stirchley, for their harvest celebration of five years of community gardening. It'll be a lovely afternoon regardless and well worth popping along to if you're local. </p>
+<p>We expect to be set up in the middle of the park, at the play area up from the car park. If you follow the main path you'll find us! </p>
+<p>As always check Twitter if you're coming to see us specially. If the weather looks really dodgy we may cancel. </p>
+<p><a href="http://www.peopleandland.org.uk/wp/?p=1986"><img loading="lazy" decoding="async" src="http://bhamobscura.com/wp-content/uploads/sites/11/2015/10/HarvestPoster-website.png" alt="HarvestPoster-website" width="605" height="855" class="alignnone size-full wp-image-1572" srcset="http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2015/10/HarvestPoster-website.png 605w, http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2015/10/HarvestPoster-website-212x300.png 212w" sizes="(max-width: 605px) 100vw, 605px" /></a></p>
+
+		</div><!-- .entry-content -->
+
+	</div><!-- .post-inner -->
+
+	<div class="section-inner">
+		
+	</div><!-- .section-inner -->
+
+	
+</article><!-- .post -->
+<hr class="post-separator styled-separator is-style-wide section-inner" aria-hidden="true" />
+<article class="post-1553 post type-post status-publish format-standard hentry category-news" id="post-1553">
+
+	
+<header class="entry-header has-text-align-center">
+
+	<div class="entry-header-inner section-inner medium">
+
+		
+			<div class="entry-categories">
+				<span class="screen-reader-text">
+					Categories				</span>
+				<div class="entry-categories-inner">
+					<a href="http://bhamobscura.com/category/news/" rel="category tag">News</a>				</div><!-- .entry-categories-inner -->
+			</div><!-- .entry-categories -->
+
+			<h2 class="entry-title heading-size-1"><a href="http://bhamobscura.com/2015/08/south-birmingham-tour/">South Birmingham Tour!</a></h2>
+		<div class="post-meta-wrapper post-meta-single post-meta-single-top">
+
+			<ul class="post-meta">
+
+									<li class="post-author meta-wrapper">
+						<span class="meta-icon">
+							<span class="screen-reader-text">
+								Post author							</span>
+							<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="20" viewBox="0 0 18 20"><path fill="" d="M18,19 C18,19.5522847 17.5522847,20 17,20 C16.4477153,20 16,19.5522847 16,19 L16,17 C16,15.3431458 14.6568542,14 13,14 L5,14 C3.34314575,14 2,15.3431458 2,17 L2,19 C2,19.5522847 1.55228475,20 1,20 C0.44771525,20 0,19.5522847 0,19 L0,17 C0,14.2385763 2.23857625,12 5,12 L13,12 C15.7614237,12 18,14.2385763 18,17 L18,19 Z M9,10 C6.23857625,10 4,7.76142375 4,5 C4,2.23857625 6.23857625,0 9,0 C11.7614237,0 14,2.23857625 14,5 C14,7.76142375 11.7614237,10 9,10 Z M9,8 C10.6568542,8 12,6.65685425 12,5 C12,3.34314575 10.6568542,2 9,2 C7.34314575,2 6,3.34314575 6,5 C6,6.65685425 7.34314575,8 9,8 Z" /></svg>						</span>
+						<span class="meta-text">
+							By <a href="http://bhamobscura.com/author/pete/">Pete Ashton</a>						</span>
+					</li>
+										<li class="post-date meta-wrapper">
+						<span class="meta-icon">
+							<span class="screen-reader-text">
+								Post date							</span>
+							<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="19" viewBox="0 0 18 19"><path fill="" d="M4.60069444,4.09375 L3.25,4.09375 C2.47334957,4.09375 1.84375,4.72334957 1.84375,5.5 L1.84375,7.26736111 L16.15625,7.26736111 L16.15625,5.5 C16.15625,4.72334957 15.5266504,4.09375 14.75,4.09375 L13.3993056,4.09375 L13.3993056,4.55555556 C13.3993056,5.02154581 13.0215458,5.39930556 12.5555556,5.39930556 C12.0895653,5.39930556 11.7118056,5.02154581 11.7118056,4.55555556 L11.7118056,4.09375 L6.28819444,4.09375 L6.28819444,4.55555556 C6.28819444,5.02154581 5.9104347,5.39930556 5.44444444,5.39930556 C4.97845419,5.39930556 4.60069444,5.02154581 4.60069444,4.55555556 L4.60069444,4.09375 Z M6.28819444,2.40625 L11.7118056,2.40625 L11.7118056,1 C11.7118056,0.534009742 12.0895653,0.15625 12.5555556,0.15625 C13.0215458,0.15625 13.3993056,0.534009742 13.3993056,1 L13.3993056,2.40625 L14.75,2.40625 C16.4586309,2.40625 17.84375,3.79136906 17.84375,5.5 L17.84375,15.875 C17.84375,17.5836309 16.4586309,18.96875 14.75,18.96875 L3.25,18.96875 C1.54136906,18.96875 0.15625,17.5836309 0.15625,15.875 L0.15625,5.5 C0.15625,3.79136906 1.54136906,2.40625 3.25,2.40625 L4.60069444,2.40625 L4.60069444,1 C4.60069444,0.534009742 4.97845419,0.15625 5.44444444,0.15625 C5.9104347,0.15625 6.28819444,0.534009742 6.28819444,1 L6.28819444,2.40625 Z M1.84375,8.95486111 L1.84375,15.875 C1.84375,16.6516504 2.47334957,17.28125 3.25,17.28125 L14.75,17.28125 C15.5266504,17.28125 16.15625,16.6516504 16.15625,15.875 L16.15625,8.95486111 L1.84375,8.95486111 Z" /></svg>						</span>
+						<span class="meta-text">
+							<a href="http://bhamobscura.com/2015/08/south-birmingham-tour/">August 27, 2015</a>
+						</span>
+					</li>
+					
+			</ul><!-- .post-meta -->
+
+		</div><!-- .post-meta-wrapper -->
+
+		
+	</div><!-- .entry-header-inner -->
+
+</header><!-- .entry-header -->
+
+	<div class="post-inner thin ">
+
+		<div class="entry-content">
+
+			<p>Over the next few days we're undertaking a tour of South Birmingham! Jenny's not sure it constitutes a real tour but Pete's convinced that if we load the camera into a car and go to three separate venues before taking it back to <a href="http://bom.org.uk">BOM</a> it's a real tour, like what rock bands do. So there. </p>
+<p><strong>Saturday</strong> we'll be at <a href="http://www.bbcwildlife.org.uk/moseley-bog-joys-wood">Moseley Bog</a> alongside the <a href="http://www.bbcwildlife.org.uk/events/2015/08/29/moseley-bog-joys-wood-minibeasts-and-bugs?instance=0">Mini Beasts and Bugs</a> event from 1-4pm. </p>
+<p><strong>Sunday</strong> afternoon Pete's going to set up the camera at <a href="https://www.facebook.com/pages/Hazelwell-Allotments/149092075186640">Hazelwell Allotments</a> next to Hazelwell Park in Stirchley, where his wife has a plot, and mess around with it for an hour or so. It's not an official event so check the Twitter for when he's there and give him a ring on 07775 690106 if the gates are locked. </p>
+<p><strong>Monday</strong> we don't have anything planned. Any ideas? </p>
+<p><strong>Tuesday</strong> we're at <a href="http://stirchleycommunitymarket.co.uk">Stirchley Community Market</a> from 4-8pm, held in the garden of the delightful British Oak Pub on Pershore Road. The market has food and crafts from local small traders and is always a delight. </p>
+<p>And then it's back to BOM. </p>
+<p>Hope to see some of you!</p>
+
+		</div><!-- .entry-content -->
+
+	</div><!-- .post-inner -->
+
+	<div class="section-inner">
+		
+	</div><!-- .section-inner -->
+
+	
+</article><!-- .post -->
+<hr class="post-separator styled-separator is-style-wide section-inner" aria-hidden="true" />
+<article class="post-1544 post type-post status-publish format-standard hentry category-historical-obscura" id="post-1544">
+
+	
+<header class="entry-header has-text-align-center">
+
+	<div class="entry-header-inner section-inner medium">
+
+		
+			<div class="entry-categories">
+				<span class="screen-reader-text">
+					Categories				</span>
+				<div class="entry-categories-inner">
+					<a href="http://bhamobscura.com/category/historical-obscura/" rel="category tag">Historical Obscura</a>				</div><!-- .entry-categories-inner -->
+			</div><!-- .entry-categories -->
+
+			<h2 class="entry-title heading-size-1"><a href="http://bhamobscura.com/2015/08/some-classical-camera-obscura/">Some classical Camera Obscura</a></h2>
+		<div class="post-meta-wrapper post-meta-single post-meta-single-top">
+
+			<ul class="post-meta">
+
+									<li class="post-author meta-wrapper">
+						<span class="meta-icon">
+							<span class="screen-reader-text">
+								Post author							</span>
+							<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="20" viewBox="0 0 18 20"><path fill="" d="M18,19 C18,19.5522847 17.5522847,20 17,20 C16.4477153,20 16,19.5522847 16,19 L16,17 C16,15.3431458 14.6568542,14 13,14 L5,14 C3.34314575,14 2,15.3431458 2,17 L2,19 C2,19.5522847 1.55228475,20 1,20 C0.44771525,20 0,19.5522847 0,19 L0,17 C0,14.2385763 2.23857625,12 5,12 L13,12 C15.7614237,12 18,14.2385763 18,17 L18,19 Z M9,10 C6.23857625,10 4,7.76142375 4,5 C4,2.23857625 6.23857625,0 9,0 C11.7614237,0 14,2.23857625 14,5 C14,7.76142375 11.7614237,10 9,10 Z M9,8 C10.6568542,8 12,6.65685425 12,5 C12,3.34314575 10.6568542,2 9,2 C7.34314575,2 6,3.34314575 6,5 C6,6.65685425 7.34314575,8 9,8 Z" /></svg>						</span>
+						<span class="meta-text">
+							By <a href="http://bhamobscura.com/author/pete/">Pete Ashton</a>						</span>
+					</li>
+										<li class="post-date meta-wrapper">
+						<span class="meta-icon">
+							<span class="screen-reader-text">
+								Post date							</span>
+							<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="19" viewBox="0 0 18 19"><path fill="" d="M4.60069444,4.09375 L3.25,4.09375 C2.47334957,4.09375 1.84375,4.72334957 1.84375,5.5 L1.84375,7.26736111 L16.15625,7.26736111 L16.15625,5.5 C16.15625,4.72334957 15.5266504,4.09375 14.75,4.09375 L13.3993056,4.09375 L13.3993056,4.55555556 C13.3993056,5.02154581 13.0215458,5.39930556 12.5555556,5.39930556 C12.0895653,5.39930556 11.7118056,5.02154581 11.7118056,4.55555556 L11.7118056,4.09375 L6.28819444,4.09375 L6.28819444,4.55555556 C6.28819444,5.02154581 5.9104347,5.39930556 5.44444444,5.39930556 C4.97845419,5.39930556 4.60069444,5.02154581 4.60069444,4.55555556 L4.60069444,4.09375 Z M6.28819444,2.40625 L11.7118056,2.40625 L11.7118056,1 C11.7118056,0.534009742 12.0895653,0.15625 12.5555556,0.15625 C13.0215458,0.15625 13.3993056,0.534009742 13.3993056,1 L13.3993056,2.40625 L14.75,2.40625 C16.4586309,2.40625 17.84375,3.79136906 17.84375,5.5 L17.84375,15.875 C17.84375,17.5836309 16.4586309,18.96875 14.75,18.96875 L3.25,18.96875 C1.54136906,18.96875 0.15625,17.5836309 0.15625,15.875 L0.15625,5.5 C0.15625,3.79136906 1.54136906,2.40625 3.25,2.40625 L4.60069444,2.40625 L4.60069444,1 C4.60069444,0.534009742 4.97845419,0.15625 5.44444444,0.15625 C5.9104347,0.15625 6.28819444,0.534009742 6.28819444,1 L6.28819444,2.40625 Z M1.84375,8.95486111 L1.84375,15.875 C1.84375,16.6516504 2.47334957,17.28125 3.25,17.28125 L14.75,17.28125 C15.5266504,17.28125 16.15625,16.6516504 16.15625,15.875 L16.15625,8.95486111 L1.84375,8.95486111 Z" /></svg>						</span>
+						<span class="meta-text">
+							<a href="http://bhamobscura.com/2015/08/some-classical-camera-obscura/">August 26, 2015</a>
+						</span>
+					</li>
+					
+			</ul><!-- .post-meta -->
+
+		</div><!-- .post-meta-wrapper -->
+
+		
+	</div><!-- .entry-header-inner -->
+
+</header><!-- .entry-header -->
+
+	<div class="post-inner thin ">
+
+		<div class="entry-content">
+
+			<p>Our attention was drawn this week to the <a href="https://twitter.com/MadameGilflurt">MadameGilflurt</a> Twitter account who posts curious artworks from the 18th century and who had dug up this beauty, titled "The Camera Obscura" by Charles-Amédée-Philippe van Loo.</p>
+<p><a href="https://twitter.com/MadameGilflurt/status/636184100009848832"><img loading="lazy" decoding="async" src="http://bhamobscura.com/wp-content/uploads/sites/11/2015/08/MadameGilflurt_2015-Aug-25.jpg" alt="MadameGilflurt_2015-Aug-25" width="597" height="598" class="alignnone size-full wp-image-1545" srcset="http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2015/08/MadameGilflurt_2015-Aug-25.jpg 597w, http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2015/08/MadameGilflurt_2015-Aug-25-150x150.jpg 150w, http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2015/08/MadameGilflurt_2015-Aug-25-300x300.jpg 300w" sizes="(max-width: 597px) 100vw, 597px" /></a></p>
+<p>We got in touch and she used her archive-fu to dig up more for us, none of which we'd seen before, so here they are! </p>
+<figure id="attachment_1546" aria-describedby="caption-attachment-1546" style="width: 699px" class="wp-caption alignnone"><a href="https://www.rijksmuseum.nl/nl/collectie/RP-P-2006-36"><img loading="lazy" decoding="async" src="http://bhamobscura.com/wp-content/uploads/sites/11/2015/08/Unknown-1.jpeg" alt="L&#039;optique&#039;, J.F. Cazenave, Louis-Léopold Boilly, ca. 1794" width="699" height="875" class="size-full wp-image-1546" srcset="http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2015/08/Unknown-1.jpeg 699w, http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2015/08/Unknown-1-240x300.jpeg 240w, http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2015/08/Unknown-1-624x781.jpeg 624w" sizes="(max-width: 699px) 100vw, 699px" /></a><figcaption id="caption-attachment-1546" class="wp-caption-text">L'optique', J.F. Cazenave, Louis-Léopold Boilly, ca. 1794</figcaption></figure>
+<figure id="attachment_1548" aria-describedby="caption-attachment-1548" style="width: 800px" class="wp-caption alignnone"><a href="http://wellcomeimages.org/indexplus/result.html?_IXMAXHITS_=1&amp;_IXACTION_=query&amp;_IXFIRST_=4&amp;_IXSR_=ee5ID508Ymr&amp;_IXSS_=_IXMAXHITS_%3d15%26_IXFPFX_%3dtemplates%252ft%26_IXFIRST_%3d1%26c%3d%2522historical%2bimages%2522%2bOR%2b%2522contemporary%2bimages%2522%2bOR%2b%2522corporate%2bimages%2522%2bOR%2b%2522contemporary%2bclinical%2bimages%2522%26%252asform%3dwellcome%252dimages%26%2524%253dsi%3dtext%26_IXACTION_%3dquery%26i_pre%3d%26IXTO%3d%26t%3d%26_IXINITSR_%3dy%26i_num%3d%26%2524%253dsort%3dsort%2bsortexpr%2bimage_sort%26w%3d%26%2524%253ds%3dobscura%26IXFROM%3d%26_IXshc%3dy%26%2524%2b%2528%2528with%2bwi_sfgu%2bis%2bY%2529%2band%2bnot%2b%2528%2522contemporary%2bclinical%2bimages%2522%2bindex%2bwi_collection%2bor%2b%2522corporate%2bimages%2522%2bindex%2bwi_collection%2529%2529%2band%2bnot%2bwith%2bsys_deleted%3d%252e%26_IXrescount%3d6&amp;_IXSPFX_=templates%2ft&amp;_IXFPFX_=templates%2ft"><img loading="lazy" decoding="async" src="http://bhamobscura.com/wp-content/uploads/sites/11/2015/08/c12c5c5915c65cc665eacc0a4805.jpg" alt="Optics: the principle of the camera obscura. Wellcome Library, London." width="800" height="540" class="size-full wp-image-1548" srcset="http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2015/08/c12c5c5915c65cc665eacc0a4805.jpg 800w, http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2015/08/c12c5c5915c65cc665eacc0a4805-300x203.jpg 300w, http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2015/08/c12c5c5915c65cc665eacc0a4805-624x421.jpg 624w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption id="caption-attachment-1548" class="wp-caption-text">Optics: the principle of the camera obscura. Wellcome Library, London.</figcaption></figure>
+<figure id="attachment_1550" aria-describedby="caption-attachment-1550" style="width: 625px" class="wp-caption alignnone"><a href="http://wellcomeimages.org/indexplus/result.html?_IXMAXHITS_=1&amp;_IXACTION_=query&amp;_IXFIRST_=5&amp;_IXSR_=ee5ID508Ymr&amp;_IXSS_=_IXMAXHITS_%3d15%26_IXFPFX_%3dtemplates%252ft%26_IXFIRST_%3d1%26c%3d%2522historical%2bimages%2522%2bOR%2b%2522contemporary%2bimages%2522%2bOR%2b%2522corporate%2bimages%2522%2bOR%2b%2522contemporary%2bclinical%2bimages%2522%26%252asform%3dwellcome%252dimages%26%2524%253dsi%3dtext%26_IXACTION_%3dquery%26i_pre%3d%26IXTO%3d%26t%3d%26_IXINITSR_%3dy%26i_num%3d%26%2524%253dsort%3dsort%2bsortexpr%2bimage_sort%26w%3d%26%2524%253ds%3dobscura%26IXFROM%3d%26_IXshc%3dy%26%2524%2b%2528%2528with%2bwi_sfgu%2bis%2bY%2529%2band%2bnot%2b%2528%2522contemporary%2bclinical%2bimages%2522%2bindex%2bwi_collection%2bor%2b%2522corporate%2bimages%2522%2bindex%2bwi_collection%2529%2529%2band%2bnot%2bwith%2bsys_deleted%3d%252e%26_IXrescount%3d6&amp;_IXSPFX_=templates%2ft&amp;_IXFPFX_=templates%2ft"><img loading="lazy" decoding="async" src="http://bhamobscura.com/wp-content/uploads/sites/11/2015/08/V0025361-691x1024.jpg" alt="Camera obscura (top) and a Leeuwenhoek style microscope (below). Engraving by Benard [after Lucotte]." width="625" height="926" class="size-large wp-image-1550" srcset="http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2015/08/V0025361-691x1024.jpg 691w, http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2015/08/V0025361-202x300.jpg 202w, http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2015/08/V0025361-624x925.jpg 624w" sizes="(max-width: 625px) 100vw, 625px" /></a><figcaption id="caption-attachment-1550" class="wp-caption-text">Camera obscura (top) and a Leeuwenhoek style microscope (below). Engraving by Benard [after Lucotte].</figcaption></figure>
+<figure id="attachment_1551" aria-describedby="caption-attachment-1551" style="width: 800px" class="wp-caption alignnone"><a href="http://wellcomeimages.org/indexplus/result.html?_IXMAXHITS_=1&amp;_IXACTION_=query&amp;_IXFIRST_=6&amp;_IXSR_=ee5ID508Ymr&amp;_IXSS_=_IXMAXHITS_%3d15%26_IXFPFX_%3dtemplates%252ft%26_IXFIRST_%3d1%26c%3d%2522historical%2bimages%2522%2bOR%2b%2522contemporary%2bimages%2522%2bOR%2b%2522corporate%2bimages%2522%2bOR%2b%2522contemporary%2bclinical%2bimages%2522%26%252asform%3dwellcome%252dimages%26%2524%253dsi%3dtext%26_IXACTION_%3dquery%26i_pre%3d%26IXTO%3d%26t%3d%26_IXINITSR_%3dy%26i_num%3d%26%2524%253dsort%3dsort%2bsortexpr%2bimage_sort%26w%3d%26%2524%253ds%3dobscura%26IXFROM%3d%26_IXshc%3dy%26%2524%2b%2528%2528with%2bwi_sfgu%2bis%2bY%2529%2band%2bnot%2b%2528%2522contemporary%2bclinical%2bimages%2522%2bindex%2bwi_collection%2bor%2b%2522corporate%2bimages%2522%2bindex%2bwi_collection%2529%2529%2band%2bnot%2bwith%2bsys_deleted%3d%252e%26_IXrescount%3d6&amp;_IXSPFX_=templates%2ft&amp;_IXFPFX_=templates%2ft"><img loading="lazy" decoding="async" src="http://bhamobscura.com/wp-content/uploads/sites/11/2015/08/2aaf6d965ba6ee7cf466c0106754.jpg" alt="A seated man looking through a camera obscura at half a skeleton suspended upside down from a tripod as two men look on. Etching." width="800" height="472" class="size-full wp-image-1551" srcset="http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2015/08/2aaf6d965ba6ee7cf466c0106754.jpg 800w, http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2015/08/2aaf6d965ba6ee7cf466c0106754-300x177.jpg 300w, http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2015/08/2aaf6d965ba6ee7cf466c0106754-624x368.jpg 624w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption id="caption-attachment-1551" class="wp-caption-text">A seated man looking through a camera obscura at half a skeleton suspended upside down from a tripod as two men look on. Etching.</figcaption></figure>
+<p>Thanks Catherine! </p>
+
+		</div><!-- .entry-content -->
+
+	</div><!-- .post-inner -->
+
+	<div class="section-inner">
+		
+	</div><!-- .section-inner -->
+
+	
+</article><!-- .post -->
+<hr class="post-separator styled-separator is-style-wide section-inner" aria-hidden="true" />
+<article class="post-1531 post type-post status-publish format-standard hentry category-rd" id="post-1531">
+
+	
+<header class="entry-header has-text-align-center">
+
+	<div class="entry-header-inner section-inner medium">
+
+		
+			<div class="entry-categories">
+				<span class="screen-reader-text">
+					Categories				</span>
+				<div class="entry-categories-inner">
+					<a href="http://bhamobscura.com/category/rd/" rel="category tag">R&amp;D</a>				</div><!-- .entry-categories-inner -->
+			</div><!-- .entry-categories -->
+
+			<h2 class="entry-title heading-size-1"><a href="http://bhamobscura.com/2015/08/rd-artists-decided-upon/">R&#038;D artists decided upon</a></h2>
+		<div class="post-meta-wrapper post-meta-single post-meta-single-top">
+
+			<ul class="post-meta">
+
+									<li class="post-author meta-wrapper">
+						<span class="meta-icon">
+							<span class="screen-reader-text">
+								Post author							</span>
+							<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="20" viewBox="0 0 18 20"><path fill="" d="M18,19 C18,19.5522847 17.5522847,20 17,20 C16.4477153,20 16,19.5522847 16,19 L16,17 C16,15.3431458 14.6568542,14 13,14 L5,14 C3.34314575,14 2,15.3431458 2,17 L2,19 C2,19.5522847 1.55228475,20 1,20 C0.44771525,20 0,19.5522847 0,19 L0,17 C0,14.2385763 2.23857625,12 5,12 L13,12 C15.7614237,12 18,14.2385763 18,17 L18,19 Z M9,10 C6.23857625,10 4,7.76142375 4,5 C4,2.23857625 6.23857625,0 9,0 C11.7614237,0 14,2.23857625 14,5 C14,7.76142375 11.7614237,10 9,10 Z M9,8 C10.6568542,8 12,6.65685425 12,5 C12,3.34314575 10.6568542,2 9,2 C7.34314575,2 6,3.34314575 6,5 C6,6.65685425 7.34314575,8 9,8 Z" /></svg>						</span>
+						<span class="meta-text">
+							By <a href="http://bhamobscura.com/author/pete/">Pete Ashton</a>						</span>
+					</li>
+										<li class="post-date meta-wrapper">
+						<span class="meta-icon">
+							<span class="screen-reader-text">
+								Post date							</span>
+							<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="19" viewBox="0 0 18 19"><path fill="" d="M4.60069444,4.09375 L3.25,4.09375 C2.47334957,4.09375 1.84375,4.72334957 1.84375,5.5 L1.84375,7.26736111 L16.15625,7.26736111 L16.15625,5.5 C16.15625,4.72334957 15.5266504,4.09375 14.75,4.09375 L13.3993056,4.09375 L13.3993056,4.55555556 C13.3993056,5.02154581 13.0215458,5.39930556 12.5555556,5.39930556 C12.0895653,5.39930556 11.7118056,5.02154581 11.7118056,4.55555556 L11.7118056,4.09375 L6.28819444,4.09375 L6.28819444,4.55555556 C6.28819444,5.02154581 5.9104347,5.39930556 5.44444444,5.39930556 C4.97845419,5.39930556 4.60069444,5.02154581 4.60069444,4.55555556 L4.60069444,4.09375 Z M6.28819444,2.40625 L11.7118056,2.40625 L11.7118056,1 C11.7118056,0.534009742 12.0895653,0.15625 12.5555556,0.15625 C13.0215458,0.15625 13.3993056,0.534009742 13.3993056,1 L13.3993056,2.40625 L14.75,2.40625 C16.4586309,2.40625 17.84375,3.79136906 17.84375,5.5 L17.84375,15.875 C17.84375,17.5836309 16.4586309,18.96875 14.75,18.96875 L3.25,18.96875 C1.54136906,18.96875 0.15625,17.5836309 0.15625,15.875 L0.15625,5.5 C0.15625,3.79136906 1.54136906,2.40625 3.25,2.40625 L4.60069444,2.40625 L4.60069444,1 C4.60069444,0.534009742 4.97845419,0.15625 5.44444444,0.15625 C5.9104347,0.15625 6.28819444,0.534009742 6.28819444,1 L6.28819444,2.40625 Z M1.84375,8.95486111 L1.84375,15.875 C1.84375,16.6516504 2.47334957,17.28125 3.25,17.28125 L14.75,17.28125 C15.5266504,17.28125 16.15625,16.6516504 16.15625,15.875 L16.15625,8.95486111 L1.84375,8.95486111 Z" /></svg>						</span>
+						<span class="meta-text">
+							<a href="http://bhamobscura.com/2015/08/rd-artists-decided-upon/">August 3, 2015</a>
+						</span>
+					</li>
+					
+			</ul><!-- .post-meta -->
+
+		</div><!-- .post-meta-wrapper -->
+
+		
+	</div><!-- .entry-header-inner -->
+
+</header><!-- .entry-header -->
+
+	<div class="post-inner thin ">
+
+		<div class="entry-content">
+
+			<p><img loading="lazy" decoding="async" src="http://bhamobscura.com/wp-content/uploads/sites/11/2015/08/WIND2-1024x680.jpg" alt="WIND2" width="625" height="415" class="alignnone size-large wp-image-1532" srcset="http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2015/08/WIND2-1024x680.jpg 1024w, http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2015/08/WIND2-300x199.jpg 300w, http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2015/08/WIND2-624x415.jpg 624w, http://www.ash10.com/bhamobscura/wp-content/uploads/sites/11/2015/08/WIND2.jpg 1186w" sizes="(max-width: 625px) 100vw, 625px" /></p>
+<p>Last week Jenny and I worked through the many and varied submissions for the <a href="http://bhamobscura.com/2015/05/call-out-for-artists/">open call</a> and whittled them down to five. We were aiming for four, but that was just a number picked out the air and these felt like a good set, so five it is. </p>
+<p>Here they are with a very brief summary of their idea. </p>
+<p><strong><a href="http://cargocollective.com/dollykershaw">Dolly Kershaw</a></strong> &#8211; augmenting the camera with mechanical devices so it can be controlled by the wind. </p>
+<p><strong><a href="http://www.gendoy.com/">Gen Doy</a></strong> &#8211; a solo performance inside the camera using spoken word and song.</p>
+<p><strong>Matthew Gabrielli</strong> &#8211; a new play based on the history of the camera to be performed with / in it.</p>
+<p><strong><a href="http://www.michaellightborne.com">Michael Lightborne</a></strong> &#8211; an interactive installation on a traffic island.</p>
+<p><strong><a href="http://sophiebullock.net">Sophie Bullock</a></strong> &#8211; a video installation exploring the visual qualities of the camera. </p>
+<p>Our aim is that, by letting these people use their camera to create new work, we can learn new things about the camera obscura as an artistic tool, the development of which pretty much stopped in the 19th century when the camera was co-opted by photography. We will therefore be documenting this entire process and sharing it with you all, and hope that our findings will inform how we use the camera in 2016 and onwards. </p>
+<p>In order to do this properly, though, we need to obtain funding and an application to the Arts Council's <a href="http://www.artscouncil.org.uk/funding/grants-arts/">Grants For The Arts</a> fund is in progress. If this is successful work will start in October!</p>
+<p><em>(Pic at top &#8211; Dolly Kershaw's wind-powered cine-camera.) </em></p>
+
+		</div><!-- .entry-content -->
+
+	</div><!-- .post-inner -->
+
+	<div class="section-inner">
+		
+	</div><!-- .section-inner -->
+
+	
+</article><!-- .post -->
+
+	
+	<div class="pagination-wrapper section-inner">
+
+		<hr class="styled-separator pagination-separator is-style-wide" aria-hidden="true" />
+
+		
+	<nav class="navigation pagination" aria-label="Posts">
+		<h2 class="screen-reader-text">Posts navigation</h2>
+		<div class="nav-links"><span class="prev page-numbers placeholder" aria-hidden="true"><span aria-hidden="true">&larr;</span> <span class="nav-prev-text">Newer <span class="nav-short">Posts</span></span></span><span aria-current="page" class="page-numbers current">1</span>
+<a class="page-numbers" href="http://bhamobscura.com/blog/page/2/">2</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class="page-numbers" href="http://bhamobscura.com/blog/page/5/">5</a>
+<a class="next page-numbers" href="http://bhamobscura.com/blog/page/2/"><span class="nav-next-text">Older <span class="nav-short">Posts</span></span> <span aria-hidden="true">&rarr;</span></a></div>
+	</nav>
+	</div><!-- .pagination-wrapper -->
+
+	
+</main><!-- #site-content -->
+
+
+	<div class="footer-nav-widgets-wrapper header-footer-group">
+
+		<div class="footer-inner section-inner">
+
+			
+			
+				<aside class="footer-widgets-outer-wrapper">
+
+					<div class="footer-widgets-wrapper">
+
+						
+							<div class="footer-widgets column-one grid-item">
+								<div class="widget widget_text"><div class="widget-content">			<div class="textwidget"><p>Birmingham Camera Obscura is a five year project to build lots of camera obscuras in Birmingham. Join our mailing list to stay in touch! </p>
+<div id="mc_embed_signup">
+<form action="http://peteashton.us2.list-manage.com/subscribe/post?u=7831fcef470b0e8f86ec0af40&amp;id=30ad1bec50" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate=""><input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required=""></p>
+<div style="position: absolute; left: -5000px;"><input type="text" name="b_7831fcef470b0e8f86ec0af40_30ad1bec50" tabindex="-1" value=""></div>
+<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+</form>
+</div>
+</div>
+		</div></div>							</div>
+
+						
+						
+							<div class="footer-widgets column-two grid-item">
+								<div class="widget widget_search"><div class="widget-content"><form role="search"  method="get" class="search-form" action="http://bhamobscura.com/">
+	<label for="search-form-1">
+		<span class="screen-reader-text">
+			Search for:		</span>
+		<input type="search" id="search-form-1" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+	</label>
+	<input type="submit" class="search-submit" value="Search" />
+</form>
+</div></div><div class="widget widget_text"><div class="widget-content">			<div class="textwidget">Logo and graphic design by <a href="https://gareth-courage.squarespace.com">Gareth Courage</a></div>
+		</div></div>							</div>
+
+						
+					</div><!-- .footer-widgets-wrapper -->
+
+				</aside><!-- .footer-widgets-outer-wrapper -->
+
+			
+		</div><!-- .footer-inner -->
+
+	</div><!-- .footer-nav-widgets-wrapper -->
+
+	
+			<footer id="site-footer" class="header-footer-group">
+
+				<div class="section-inner">
+
+					<div class="footer-credits">
+
+						<p class="footer-copyright">&copy;
+							2024							<a href="http://bhamobscura.com/">Birmingham Camera Obscura</a>
+						</p><!-- .footer-copyright -->
+
+						
+						<p class="powered-by-wordpress">
+							<a href="https://wordpress.org/">
+								Powered by WordPress							</a>
+						</p><!-- .powered-by-wordpress -->
+
+					</div><!-- .footer-credits -->
+
+					<a class="to-the-top" href="#site-header">
+						<span class="to-the-top-long">
+							To the top <span class="arrow" aria-hidden="true">&uarr;</span>						</span><!-- .to-the-top-long -->
+						<span class="to-the-top-short">
+							Up <span class="arrow" aria-hidden="true">&uarr;</span>						</span><!-- .to-the-top-short -->
+					</a><!-- .to-the-top -->
+
+				</div><!-- .section-inner -->
+
+			</footer><!-- #site-footer -->
+
+		<script id="qppr_frontend_scripts-js-extra">
+var qpprFrontData = {"linkData":{"http:\/\/bhamobscura.com\/press-pack\/":[0,0,""]},"siteURL":"http:\/\/bhamobscura.com","siteURLq":"http:\/\/bhamobscura.com"};
+</script>
+<script src="http://bhamobscura.com/wp-content/plugins/quick-pagepost-redirect-plugin/js/qppr_frontend_script.min.js?ver=5.2.3" id="qppr_frontend_scripts-js"></script>
+
+	</body>
+</html>
