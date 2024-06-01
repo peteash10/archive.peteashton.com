@@ -21,7 +21,7 @@ An exhibition and body of work from 2017
 
 ### Birmingham Camera Obscura
 
-A project with Jenny Duffin to build and tour camera obscuras in the West Midlands. (This archive is very broken - fixing it is a work in progress.)
+A project with Jenny Duffin to build and tour camera obscuras in the West Midlands, from 2014-2017. (This archive is very broken - fixing it is a work in progress.)
 
 **[Archive](/bhamobscura.com/)** | [More info](https://art.peteashton.com/bham-obscura/)
 
