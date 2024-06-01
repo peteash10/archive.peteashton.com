@@ -17,11 +17,11 @@ An art walking project with Andy Howlett from 2015
 
 An exhibition and body of work from 2017
 
-**[Archive[(/instructionsforhumans.com/)** | [More info](https://art.peteashton.com/instructions-for-humans/)
+**[Archive](/instructionsforhumans.com/)** | [More info](https://art.peteashton.com/instructions-for-humans/)
 
 ### Birmingham Camera Obscura
 
 A project with Jenny Duffin to build and tour camera obscuras in the West Midlands.
 
-**[Archive[(/bhamobscura.com/)** | [More info](https://art.peteashton.com/bham-obscura/)
+**[Archive](/bhamobscura.com/)** | [More info](https://art.peteashton.com/bham-obscura/)
 
